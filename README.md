@@ -1,56 +1,8 @@
-# Wavelog
+# Wavelog Translations
 
-> Important: Only accepting PRs on the "dev" branch.
+Hello and welcome in this repo. Unfortunately here is nothing to do for you.  
+This repository is owned by an automatic user and is used to manage the connection between [https://translate.wavelog.org](https://translate.wavelog.org) and the [main Wavelog Repo](https://github.com/wavelog/wavelog).
 
-Wavelog is a self-hosted PHP application that allows you to log your amateur radio contacts anywhere. All you need is a web browser and active internet connection.
+If you want contribute translations we invite you to register at [https://translate.wavelog.org](https://translate.wavelog.org) and start translating.
 
-Wavelog itself is an enhanced fork of Cloudlog by 2M0SQL.
-If you would like to contribute to Wavelog please see the [Contributing](#contributing) section below.
-
-The Core-Dev-Team for Wavelog are (in Alphabetic order of the Call):
-* DF2ET ([@phl0](https://github.com/phl0))
-* DJ7NT ([@int2001](https://github.com/int2001))
-* HB9HIL ([@HB9HIL](https://github.com/HB9HIL))
-* LA8AJA ([@AndreasK79](https://github.com/AndreasK79))
-
-## Demo
-Test Wavelog and it's features!  
-https://demo.wavelog.org  
-
-  Username: demo  
-  Password: demo
-
-
-## Requirements
-### Recommended: Classic-LAMP-Stack:
-* Linux based Operating System (Windows stack may also work)
-* Apache (Nginx should work)
-* PHP Version 7.4 up to PHP 8.2 (PHP 8.3. in friendly Usertest)
-* MySQL or MariaDB (MySQL 5.7 or higher // MariaDB 10.1 or higher)
-
-### Experimental:
-* [Docker Support](https://github.com/wavelog/wavelog/wiki/Installation-via-Docker)
-
-Notes
-* If you want to log microwave QSOs you will need to use a 64bit operating system.
-* We do not provide Docker support, however you are free to use it if you wish but we will not handle support.
-
-## Setup
-
-Installation information can be found on the [wiki](https://github.com/wavelog/wavelog/wiki).
-
-## Support
-
-Wavelog-support can be reached by creating an issue here at github. If you've any issues don't hesitate to create one here. Please provide as much information as possible to reproduce the Problem
-
-
-## Contributing
-
-Special thanks to our contributors, who are part of Wavelog by improving code!  
-[F4ANS](https://github.com/abarrau), [DG0TM](https://github.com/dg0tm), [DG9VH](https://github.com/dg9vh), [DJ3CE](https://github.com/dj3ce)
-
-If you would like to contribute in any way to Wavelog, it is most appreciated. This has been developed in free time, help coding new features or writing documentation is always useful.
-
-Please note that Wavelog was built using [Codeigniter](https://www.codeigniter.com/docs) version 3 and uses Bootstrap 5 for the user CSS framework documentation is available for this when building components.
-
-When submitting PRs please make sure code is commented and includes one feature only, multiple features or bug fixes will not be accepted. Please include a description of what your PR does and why it is needed.
+Thanks for your help to make Wavelog better!
