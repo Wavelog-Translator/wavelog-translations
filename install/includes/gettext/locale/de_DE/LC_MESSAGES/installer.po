@@ -2,20 +2,21 @@
 # Copyright (c) 2024 Wavelog by DF2ET, DJ7NT, HB9HIL and LA8AJA.
 # This file is distributed under the MIT licence.
 #
+# Fabian Berg <hb9hil@wavelog.org>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translations@wavelog.org\n"
 "POT-Creation-Date: 2024-07-09 09:05+0200\n"
-"PO-Revision-Date: 2024-07-08 09:10+0200\n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2024-07-09 08:59+0000\n"
+"Last-Translator: Fabian Berg <hb9hil@wavelog.org>\n"
+"Language-Team: German <https://translate.wavelog.org/projects/dev-project/dev-installer/de/>\n"
 "Language: de_DE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.4.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.6\n"
 
 #: install/index.php:213
 msgid "Install | Wavelog"
@@ -51,201 +52,201 @@ msgstr "Willkommen beim Wavelog Installer"
 
 #: install/index.php:270
 msgid "This installer will guide you through the necessary steps for the installation of Wavelog. <br>Wavelog is a powerful web-based amateur radio logging software. Follow the steps in each tab to configure and install Wavelog on your server."
-msgstr ""
+msgstr "Dieser Installer führt dich durch die notwendigen Schritte zur Installation von Wavelog. <br>Wavelog ist eine leistungsstarke webbasierte Amateurfunk-Logging-Software. Folge den Schritten in jedem Tab, um Wavelog auf deinem Server zu konfigurieren und zu installieren."
 
 #: install/index.php:271
 msgid "Discussions"
-msgstr ""
+msgstr "Diskussionen"
 
 #: install/index.php:271
 #, php-format
 msgid "If you encounter any issues or have questions, refer to the documentation (%s) or community forum (%s) on Github for assistance."
-msgstr ""
+msgstr "Falls du auf Probleme stösst oder Fragen hast, schau in die Dokumentation (%s) oder das Community-Forum (%s) auf Github für Hilfe."
 
 #: install/index.php:271
 msgid "Wiki"
-msgstr ""
+msgstr "Wiki"
 
 #: install/index.php:272
 msgid "Thank you for installing Wavelog!"
-msgstr ""
+msgstr "Danke, dass du Wavelog installierst!"
 
 #: install/index.php:273 install/index.php:276 install/index.php:1123
 msgid "Language"
-msgstr ""
+msgstr "Sprache"
 
 #: install/index.php:286
 msgid "Select a language"
-msgstr ""
+msgstr "Wähle eine Sprache aus"
 
 #: install/index.php:299
 msgid "Close"
-msgstr ""
+msgstr "Schliessen"
 
 #: install/index.php:309
 msgid "PHP Modules"
-msgstr ""
+msgstr "PHP-Module"
 
 #: install/index.php:316
 msgid "Version"
-msgstr ""
+msgstr "Version"
 
 #: install/index.php:338
 msgid "Installed"
-msgstr ""
+msgstr "Installiert"
 
 #: install/index.php:338
 msgid "Not Installed"
-msgstr ""
+msgstr "Nicht installiert"
 
 #: install/index.php:346
 msgid "PHP Settings"
-msgstr ""
+msgstr "PHP-Einstellungen"
 
 #: install/index.php:410
 msgid "On"
-msgstr ""
+msgstr "An"
 
 #: install/index.php:413
 msgid "Off"
-msgstr ""
+msgstr "Aus"
 
 #: install/index.php:421
 msgid "MySQL / MariaDB"
-msgstr ""
+msgstr "MySQL / MariaDB"
 
 #: install/index.php:424
 msgid "Min. MySQL Version:"
-msgstr ""
+msgstr "Min. MySQL Version:"
 
 #: install/index.php:428
 msgid "or"
-msgstr ""
+msgstr "oder"
 
 #: install/index.php:432
 msgid "Min. MariaDB Version:"
-msgstr ""
+msgstr "Min. MariaDB Version:"
 
 #: install/index.php:436
 msgid "You can test your MySQL/MariaDB Version in Step 4"
-msgstr ""
+msgstr "Du kannst deine MySQL/MariaDB Version in Schritt 4 testen"
 
 #: install/index.php:440
 msgid "Some Checks have failed!"
-msgstr ""
+msgstr "Einige Prüfungen sind fehlgeschlagen!"
 
 #: install/index.php:441
 msgid "Check your PHP settings and install missing modules if necessary."
-msgstr ""
+msgstr "Überprüfe deine PHP-Einstellungen und installiere fehlende Module, falls notwendig."
 
 #: install/index.php:442
 msgid "After that, you have to restart your webserver and start the installer again."
-msgstr ""
+msgstr "Danach musst du deinen Webserver neu starten und den Installer erneut starten."
 
 #: install/index.php:446
 msgid "You have some warnings!"
-msgstr ""
+msgstr "Du hast ein paar Warnungen!"
 
 #: install/index.php:447
 msgid "Some of the settings are not optimal. You can proceed with the installer but be aware that you could run into problems while using Wavelog."
-msgstr ""
+msgstr "Einige der Einstellungen sind nicht optimal. Du kannst mit dem Installer fortfahren, aber sei dir bewusst, dass du auf Probleme stossen könntest, während du Wavelog benutzt."
 
 #: install/index.php:451
 msgid "All Checks are OK. You can continue."
-msgstr ""
+msgstr "Alle Checks sind OK. Du kannst weitermachen."
 
 #: install/index.php:465
 msgid "Configure some basic parameters for your wavelog instance. You can change them later in 'application/config/config.php'"
-msgstr ""
+msgstr "Konfiguriere einige grundlegende Parameter für deine Wavelog-Instanz. Du kannst sie später in 'application/config/config.php' ändern"
 
 #: install/index.php:467
 msgid "Directory"
-msgstr ""
+msgstr "Verzeichnis"
 
 #: install/index.php:467
 msgid "The 'Directory' is basically your subfolder of the webroot In normal conditions the prefilled value is doing it's job. It also can be empty."
-msgstr ""
+msgstr "Das 'Verzeichnis' ist im Grunde dein Unterordner des Webroots. Unter normalen Bedingungen erfüllt der vorgegebene Wert seine Aufgabe. Es kann auch leer sein."
 
 #: install/index.php:474
 #, php-format
 msgid "This is the complete URL where your Wavelog Instance will be available. If you run this installer locally but want to place Wavelog behind a Reverse Proxy with SSL you should type in the new URL here (e.g. %s instead of %s). Don't forget to include the directory from above."
-msgstr ""
+msgstr "Dies ist die vollständige URL, unter der deine Wavelog-Instanz verfügbar sein wird. Wenn du diesen Installer lokal ausführst, aber Wavelog hinter einem Reverse Proxy mit SSL platzieren möchtest, solltest du hier die neue URL eingeben (z.B. %s statt %s). Vergiss nicht, das oben genannte Verzeichnis einzuschließen."
 
 #: install/index.php:474
 msgid "Website URL"
-msgstr ""
+msgstr "Webseiten-URL"
 
 #: install/index.php:477
 msgid "This field can't be empty!"
-msgstr ""
+msgstr "Dieses Feld darf nicht leer sein!"
 
 #: install/index.php:481
 msgid "Default Gridsquare/Locator"
-msgstr ""
+msgstr "Standard-Planquadrat/Locator"
 
 #: install/index.php:481
 msgid "This is the default maidenhead locator which is used as falback. You can use the locator of your Home QTH."
-msgstr ""
+msgstr "Dies ist der Standard-Maidenhead-Locator, der als Fallback verwendet wird. Du kannst den Locator deines Heim-QTH verwenden."
 
 #: install/index.php:484
 msgid "Type in a valid locator"
-msgstr ""
+msgstr "Gib einen gültigen Locator ein"
 
 #: install/index.php:488
 msgid "Optional: Global Callbook Lookup"
-msgstr ""
+msgstr "Optional: Globaler Callbook Lookup"
 
 #: install/index.php:488
 msgid "This configuration is optional. The callsign lookup will be available for all users of this installation. You can choose between QRZ.com and HamQTH. While HamQTH also works without username and password, you will need credentials for QRZ.com. To also get the Call Locator in QRZ.com you'll need an XML subscription. HamQTH does not always provide the locator information."
-msgstr ""
+msgstr "Diese Konfiguration ist optional. Das Callbook-Lookup wird für alle Benutzer dieser Installation verfügbar sein. Du kannst zwischen QRZ.com und HamQTH wählen. Während HamQTH auch ohne Benutzername und Passwort funktioniert, benötigst du für QRZ.com Anmeldedaten. Um auch den Rufzeichen-Locator in QRZ.com zu erhalten, brauchst du ein XML-Abonnement. HamQTH liefert nicht immer die Locator-Informationen."
 
 #: install/index.php:497 install/index.php:540 install/index.php:572
 msgid "Username"
-msgstr ""
+msgstr "Benutzername"
 
 #: install/index.php:500 install/index.php:544 install/index.php:582
 msgid "Password"
-msgstr ""
+msgstr "Passwort"
 
 #: install/index.php:505
 msgid "Callbook Username"
-msgstr ""
+msgstr "Callbook-Benutzername"
 
 #: install/index.php:508
 msgid "Callbook Password"
-msgstr ""
+msgstr "Callbook-Passwort"
 
 #: install/index.php:524
 msgid "To properly install Wavelog you already should have setup a mariadb/mysql database. Provide the parameters here."
-msgstr ""
+msgstr "Um Wavelog richtig zu installieren, solltest du bereits eine mariadb/mysql-Datenbank eingerichtet haben. Gib hier die Parameter an."
 
 #: install/index.php:528
 msgid "Hostname or IP"
-msgstr ""
+msgstr "Hostname oder IP"
 
 #: install/index.php:528
 msgid "Usually 'localhost'. Optional with '...:[port]'. Default Port: 3306"
-msgstr ""
+msgstr "Normalerweise 'localhost'. Optional mit '...:[Port]'. Standardport: 3306"
 
 #: install/index.php:534
 msgid "Database Name"
-msgstr ""
+msgstr "Datenbankname"
 
 #: install/index.php:534
 msgid "Name of the Database"
-msgstr ""
+msgstr "Name der Datenbank"
 
 #: install/index.php:540
 msgid "Username of the Database User which has full access to the database."
-msgstr ""
+msgstr "Benutzername des Datenbankbenutzers, der vollen Zugriff auf die Datenbank hat."
 
 #: install/index.php:544
 msgid "Password of the Database User"
-msgstr ""
+msgstr "Passwort des Datenbankbenutzers"
 
 #: install/index.php:548
 msgid "Connection Test"
-msgstr ""
+msgstr "Verbindungstest"
 
 #: install/index.php:559
 msgid ">Now you can create your first user in Wavelog. Fill out all fields and click continue.<br>Make sure you use a proper password."
