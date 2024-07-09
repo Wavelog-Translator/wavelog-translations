@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translations@wavelog.org\n"
 "POT-Creation-Date: 2024-07-09 09:05+0200\n"
-"PO-Revision-Date: 2024-07-09 08:59+0000\n"
+"PO-Revision-Date: 2024-07-09 13:54+0000\n"
 "Last-Translator: Fabian Berg <hb9hil@wavelog.org>\n"
 "Language-Team: German <https://translate.wavelog.org/projects/dev-project/dev-installer/de/>\n"
 "Language: de_DE\n"
@@ -250,23 +250,23 @@ msgstr "Verbindungstest"
 
 #: install/index.php:559
 msgid ">Now you can create your first user in Wavelog. Fill out all fields and click continue.<br>Make sure you use a proper password."
-msgstr ""
+msgstr "Jetzt kannst du deinen ersten Benutzer in Wavelog erstellen. Fülle alle Felder aus und klicke auf Weiter.<br>Stelle sicher, dass du ein sicheres Passwort verwendest."
 
 #: install/index.php:568
 msgid "First Name"
-msgstr ""
+msgstr "Vorname"
 
 #: install/index.php:578
 msgid "Last Name"
-msgstr ""
+msgstr "Nachname"
 
 #: install/index.php:588
 msgid "Callsign"
-msgstr ""
+msgstr "Rufzeichen"
 
 #: install/index.php:592
 msgid "Confirm Password"
-msgstr ""
+msgstr "Passwort bestätigen"
 
 #: install/index.php:598
 msgid "City"
