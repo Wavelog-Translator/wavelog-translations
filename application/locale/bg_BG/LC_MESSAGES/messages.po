@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: translations@wavelog.org\n"
 "POT-Creation-Date: 2024-07-11 16:15+0200\n"
-"PO-Revision-Date: 2024-07-11 16:12+0000\n"
+"PO-Revision-Date: 2024-07-11 16:49+0000\n"
 "Last-Translator: Fabian Berg <hb9hil@wavelog.org>\n"
 "Language-Team: Bulgarian <https://translate.wavelog.org/projects/dev-project/"
 "dev-translations/bg/>\n"
@@ -74,21 +74,21 @@ msgstr "неправилна дата"
 
 #: application/controllers/Adif.php:29 application/views/adif/import.php:24
 msgid "ADIF Export"
-msgstr ""
+msgstr "ADIF Експорт"
 
 #: application/controllers/Adif.php:147
 #: application/views/interface_assets/header.php:376
 msgid "ADIF Import / Export"
-msgstr ""
+msgstr "ADIF Импорт / Експорт"
 
 #: application/controllers/Adif.php:171 application/views/adif/import.php:21
 #: application/views/lotw/import.php:3
 msgid "ADIF Import"
-msgstr ""
+msgstr "ADIF Импорт"
 
 #: application/controllers/Adif.php:211
 msgid "Unsupported Filetype"
-msgstr ""
+msgstr "Неподдържан файлов тип"
 
 #: application/controllers/Adif.php:247
 msgid "Station Profile not valid for User"
@@ -3191,6 +3191,12 @@ msgid ""
 "'Deutscher Ortsverband Kenner' (English: 'German Local Association "
 "Identifier')."
 msgstr ""
+"Германия се простира на над 630 км от изток на запад и почти 900 км от север "
+"на юг. Около 70 000 от 82 милиона жители на Германия са лицензирани "
+"радиолюбители, като повече от 40 000 от тях са членове на DARC. DOK е "
+"система, която предоставя на отделните местни клонове идентификатор и "
+"означава 'Deutscher Ortsverband Kenner' (на български: 'Идентификатор на "
+"германската местна асоциация')."
 
 #: application/views/awards/dok/index.php:9
 msgid ""
