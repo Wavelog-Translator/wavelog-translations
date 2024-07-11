@@ -21,47 +21,38 @@ msgstr ""
 "X-Generator: Weblate 5.6\n"
 
 #: install/index.php:213
-#, fuzzy
 msgid "Install | Wavelog"
 msgstr "安装 | Wavelog"
 
 #: install/index.php:237
-#, fuzzy
 msgid "1. Welcome"
 msgstr "1. 欢迎"
 
 #: install/index.php:240
-#, fuzzy
 msgid "2. Pre Checks"
 msgstr "2. 安装前检查"
 
 #: install/index.php:243
-#, fuzzy
 msgid "3. Configuration"
 msgstr "3. 配置信息"
 
 #: install/index.php:246
-#, fuzzy
 msgid "4. Database"
 msgstr "4. 数据库"
 
 #: install/index.php:249
-#, fuzzy
 msgid "5. First User"
 msgstr "5. 初始用户"
 
 #: install/index.php:252
-#, fuzzy
 msgid "6. Finish"
 msgstr "6. 完成"
 
 #: install/index.php:269
-#, fuzzy
 msgid "Welcome to the Wavelog Installer"
 msgstr "欢迎使用 Wavelog 安装程序"
 
 #: install/index.php:270
-#, fuzzy
 msgid ""
 "This installer will guide you through the necessary steps for the "
 "installation of Wavelog. <br>Wavelog is a powerful web-based amateur radio "
@@ -73,7 +64,6 @@ msgstr ""
 "请按照每个选项卡中的步骤在服务器上安装和配置 Wavelog。"
 
 #: install/index.php:271
-#, fuzzy
 msgid "Discussions"
 msgstr "交流"
 
@@ -86,125 +76,101 @@ msgstr "如果您遇到问题或有疑问，请查看文档（%s）或 Github "
 "上的社区门户（%s）以获得帮助。"
 
 #: install/index.php:271
-#, fuzzy
 msgid "Wiki"
 msgstr "Wiki"
 
 #: install/index.php:272
-#, fuzzy
 msgid "Thank you for installing Wavelog!"
 msgstr "感谢安装 Wavelog！"
 
 #: install/index.php:273 install/index.php:276 install/index.php:1123
-#, fuzzy
 msgid "Language"
 msgstr "语言"
 
 #: install/index.php:286
-#, fuzzy
 msgid "Select a language"
 msgstr "选择语言"
 
 #: install/index.php:299
-#, fuzzy
 msgid "Close"
 msgstr "关闭"
 
 #: install/index.php:309
-#, fuzzy
 msgid "PHP Modules"
 msgstr "PHP 模块"
 
 #: install/index.php:316
-#, fuzzy
 msgid "Version"
 msgstr "版本"
 
 #: install/index.php:338
-#, fuzzy
 msgid "Installed"
 msgstr "已安装"
 
 #: install/index.php:338
-#, fuzzy
 msgid "Not Installed"
 msgstr "未安装"
 
 #: install/index.php:346
-#, fuzzy
 msgid "PHP Settings"
 msgstr "PHP 设置"
 
 #: install/index.php:410
-#, fuzzy
 msgid "On"
 msgstr "开启"
 
 #: install/index.php:413
-#, fuzzy
 msgid "Off"
 msgstr "关闭"
 
 #: install/index.php:421
-#, fuzzy
 msgid "MySQL / MariaDB"
 msgstr "MySQL / MariaDB"
 
 #: install/index.php:424
-#, fuzzy
 msgid "Min. MySQL Version:"
 msgstr "MySQL 最低版本："
 
 #: install/index.php:428
-#, fuzzy
 msgid "or"
 msgstr "或者"
 
 #: install/index.php:432
-#, fuzzy
 msgid "Min. MariaDB Version:"
 msgstr "MariaDB 最低版本："
 
 #: install/index.php:436
-#, fuzzy
 msgid "You can test your MySQL/MariaDB Version in Step 4"
 msgstr "您可在第 4 步中测试 MySQL/MariaDB 的版本"
 
 #: install/index.php:440
-#, fuzzy
 msgid "Some Checks have failed!"
 msgstr "部分检查出现了问题！"
 
 #: install/index.php:441
-#, fuzzy
 msgid "Check your PHP settings and install missing modules if necessary."
 msgstr "请检查 PHP 配置，或安装缺失的必要模块。"
 
 #: install/index.php:442
-#, fuzzy
 msgid ""
 "After that, you have to restart your webserver and start the installer again."
 msgstr "在这之后，您需要重启服务器，重新启动安装程序。"
 
 #: install/index.php:446
-#, fuzzy
 msgid "You have some warnings!"
 msgstr "有一些警告内容！"
 
 #: install/index.php:447
-#, fuzzy
 msgid ""
 "Some of the settings are not optimal. You can proceed with the installer but "
 "be aware that you could run into problems while using Wavelog."
 msgstr "这些设置项不是最完美的，虽然可以跑起来，但 Wavelog 在运行中可能会出现问题。"
 
 #: install/index.php:451
-#, fuzzy
 msgid "All Checks are OK. You can continue."
 msgstr "所有检查都通过了，您可以继续。"
 
 #: install/index.php:465
-#, fuzzy
 msgid ""
 "Configure some basic parameters for your wavelog instance. You can change "
 "them later in 'application/config/config.php'"
@@ -212,12 +178,10 @@ msgstr "为 Wavelog 实例配置一些基本参数。您可以稍后在 \"applic
 "config.php \"中修改它们"
 
 #: install/index.php:467
-#, fuzzy
 msgid "Directory"
 msgstr "目录"
 
 #: install/index.php:467
-#, fuzzy
 msgid ""
 "The 'Directory' is basically your subfolder of the webroot In normal "
 "conditions the prefilled value is doing it's job. It also can be empty."
@@ -236,39 +200,32 @@ msgstr ""
 "%s），不要忘记包含上面的目录（如有）。"
 
 #: install/index.php:474
-#, fuzzy
 msgid "Website URL"
 msgstr "网站 URL"
 
 #: install/index.php:477
-#, fuzzy
 msgid "This field can't be empty!"
 msgstr "该字段不能为空！"
 
 #: install/index.php:481
-#, fuzzy
 msgid "Default Gridsquare/Locator"
 msgstr "默认网格地址"
 
 #: install/index.php:481
-#, fuzzy
 msgid ""
 "This is the default maidenhead locator which is used as falback. You can use "
 "the locator of your Home QTH."
 msgstr "默认的梅登黑德网格，可以使用基地台的 QTH。"
 
 #: install/index.php:484
-#, fuzzy
 msgid "Type in a valid locator"
 msgstr "输入有效的网格"
 
 #: install/index.php:488
-#, fuzzy
 msgid "Optional: Global Callbook Lookup"
 msgstr "可选：全局日志查询"
 
 #: install/index.php:488
-#, fuzzy
 msgid ""
 "This configuration is optional. The callsign lookup will be available for "
 "all users of this installation. You can choose between QRZ.com and HamQTH. "
@@ -281,69 +238,56 @@ msgstr ""
 "为其需要配置登录信息（如需要获取网格地址，请购买 QRZ.com 的 XML 订阅）。"
 
 #: install/index.php:497 install/index.php:540 install/index.php:572
-#, fuzzy
 msgid "Username"
 msgstr "用户名"
 
 #: install/index.php:500 install/index.php:544 install/index.php:582
-#, fuzzy
 msgid "Password"
 msgstr "密码"
 
 #: install/index.php:505
-#, fuzzy
 msgid "Callbook Username"
 msgstr "日志簿用户名"
 
 #: install/index.php:508
-#, fuzzy
 msgid "Callbook Password"
 msgstr "日志簿密码"
 
 #: install/index.php:524
-#, fuzzy
 msgid ""
 "To properly install Wavelog you already should have setup a mariadb/mysql "
 "database. Provide the parameters here."
 msgstr "要正确安装 Wavelog，请准备好 mariadb/mysql 数据库，在此输入连接信息。"
 
 #: install/index.php:528
-#, fuzzy
 msgid "Hostname or IP"
 msgstr "主机名或 IP"
 
 #: install/index.php:528
-#, fuzzy
 msgid "Usually 'localhost'. Optional with '...:[port]'. Default Port: 3306"
 msgstr "通常是 'localhost'，或加上端口 '....:[3306]'，默认端口：3306"
 
 #: install/index.php:534
-#, fuzzy
 msgid "Database Name"
 msgstr "数据库名称"
 
 #: install/index.php:534
-#, fuzzy
 msgid "Name of the Database"
 msgstr "数据库名"
 
 #: install/index.php:540
-#, fuzzy
 msgid "Username of the Database User which has full access to the database."
 msgstr "对该数据库有完整权限的用户名。"
 
 #: install/index.php:544
-#, fuzzy
 msgid "Password of the Database User"
 msgstr "用户密码"
 
 #: install/index.php:548
-#, fuzzy
 msgid "Connection Test"
 msgstr "测试连接"
 
 #: install/index.php:559
-#, fuzzy
 msgid ""
 ">Now you can create your first user in Wavelog. Fill out all fields and "
 "click continue.<br>Make sure you use a proper password."
@@ -351,52 +295,42 @@ msgstr ">现在你可以在Wavelog中创建你的第一个用户。填写所有�
 "使用了一个合适的密码。"
 
 #: install/index.php:568
-#, fuzzy
 msgid "First Name"
 msgstr "名"
 
 #: install/index.php:578
-#, fuzzy
 msgid "Last Name"
 msgstr "姓"
 
 #: install/index.php:588
-#, fuzzy
 msgid "Callsign"
 msgstr "呼号"
 
 #: install/index.php:592
-#, fuzzy
 msgid "Confirm Password"
 msgstr "确认密码"
 
 #: install/index.php:598
-#, fuzzy
 msgid "City"
 msgstr "城市"
 
 #: install/index.php:602
-#, fuzzy
 msgid "E-Mail Address"
 msgstr "Email 地址"
 
 #: install/index.php:608
-#, fuzzy
 msgid "Gridsquare/Locator"
 msgstr "网格地址"
 
 #: install/index.php:612
-#, fuzzy
 msgid "Timezone"
 msgstr "时区"
 
 #: install/index.php:715
-#, fuzzy
 msgid "DXCC"
 msgstr "DXCC"
 
 #: install/index.php:717
-#, fuzzy
 msgctxt "No DXCC"
 msgid "- None -"
 msgstr "- 无 -"
@@ -422,94 +356,76 @@ msgstr "- 无 -"
 #: install/index.php:1067 install/index.php:1073 install/index.php:1076
 #: install/index.php:1079 install/index.php:1084 install/index.php:1110
 #: install/index.php:1116 install/index.php:1118
-#, fuzzy
 msgid "Deleted DXCC"
 msgstr "已选择的 DXCC"
 
 #: install/index.php:1141
-#, fuzzy
 msgid "Checklist"
 msgstr "检查单"
 
 #: install/index.php:1142
-#, fuzzy
 msgid "Configuration"
 msgstr "配置"
 
 #: install/index.php:1144
-#, fuzzy
 msgid "Database"
 msgstr "数据库"
 
 #: install/index.php:1146
-#, fuzzy
 msgid "First User"
 msgstr "初始用户"
 
 #: install/index.php:1153
-#, fuzzy
 msgid "Nearly done!"
 msgstr "马上完成！"
 
 #: install/index.php:1154
-#, fuzzy
 msgid "You prepared all neccessary steps."
 msgstr "您已准备好全部步骤。"
 
 #: install/index.php:1155
-#, fuzzy
 msgid "We now can install Wavelog. This process can take a few minutes."
 msgstr "现在可以安装 Wavelog 了，需要几分钟的时间。"
 
 #: install/index.php:1165
-#, fuzzy
 msgid "Back"
 msgstr "后退"
 
 #: install/index.php:1166
-#, fuzzy
 msgid "Continue"
 msgstr "继续"
 
 #: install/index.php:1191
-#, fuzzy
 msgid "Error: All fields are required."
 msgstr "错误：请填写全部表单。"
 
 #: install/index.php:1197
-#, fuzzy
 msgid "Connecting..."
 msgstr "连接中…"
 
 #: install/index.php:1222
-#, fuzzy
 msgid "Connection was successful and your database should be compatible"
 msgstr "连接成功，数据库满足要求"
 
 #: install/index.php:1228
-#, fuzzy
 msgid ""
 "Connection was successful but your database seems too old for Wavelog. You "
 "can try to continue but you could run into issues."
 msgstr "连接成功，但数据库版本有一些老，您可以继续安装但是可能会出现使用问题。"
 
 #: install/index.php:1382
-#, fuzzy
 msgid "Password should be at least 8 characters long"
 msgstr "密码需要至少 8 位长"
 
 #: install/index.php:1398
-#, fuzzy
 msgid "Passwords do not match"
 msgstr "密码不匹配"
 
 #: install/index.php:1416
-#, fuzzy
 msgid "The E-Mail Address is not valid"
 msgstr "Email 地址无效"
 
 #: install/index.php:1440
-#, fuzzy
 msgid ""
 "The grid locator is not valid. Use a 6-character locator, e.g. HA44AA. If "
 "you don't know your grid square then <a href='&s' target='_blank'>click "
@@ -529,76 +445,61 @@ msgstr ""
 "%s</code><br /><br /><i>⬅️请测试后及时回滚权限。</i>"
 
 #: install/index.php:1562
-#, fuzzy
 msgid "Bulgarian"
 msgstr "保加利亚语"
 
 #: install/index.php:1563
-#, fuzzy
 msgid "Chinese (Simplified)"
 msgstr "中文（简体）"
 
 #: install/index.php:1564
-#, fuzzy
 msgid "Czech"
 msgstr "捷克语"
 
 #: install/index.php:1565
-#, fuzzy
 msgid "Dutch"
 msgstr "荷兰语"
 
 #: install/index.php:1566
-#, fuzzy
 msgid "English"
 msgstr "英语"
 
 #: install/index.php:1567
-#, fuzzy
 msgid "Finnish"
 msgstr "芬兰语"
 
 #: install/index.php:1568
-#, fuzzy
 msgid "French"
 msgstr "法语"
 
 #: install/index.php:1569
-#, fuzzy
 msgid "German"
 msgstr "德语"
 
 #: install/index.php:1570
-#, fuzzy
 msgid "Greek"
 msgstr "希腊语"
 
 #: install/index.php:1571
-#, fuzzy
 msgid "Italian"
 msgstr "意大利语"
 
 #: install/index.php:1572
-#, fuzzy
 msgid "Polish"
 msgstr "波兰语"
 
 #: install/index.php:1573
-#, fuzzy
 msgid "Russian"
 msgstr "俄语"
 
 #: install/index.php:1574
-#, fuzzy
 msgid "Spanish"
 msgstr "西班牙语"
 
 #: install/index.php:1575
-#, fuzzy
 msgid "Swedish"
 msgstr "瑞典语"
 
 #: install/index.php:1576
-#, fuzzy
 msgid "Turkish"
 msgstr "土耳其语"
