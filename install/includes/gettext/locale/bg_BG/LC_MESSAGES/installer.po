@@ -4,12 +4,14 @@
 #
 # Fabian Berg <hb9hil@wavelog.org>, 2024.
 # OpenAI <noreply-mt-openai@weblate.org>, 2024.
+# Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2024.
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: translations@wavelog.org\n"
 "POT-Creation-Date: 2024-07-09 09:22+0200\n"
 "PO-Revision-Date: 2024-07-11 17:29+0000\n"
-"Last-Translator: OpenAI <noreply-mt-openai@weblate.org>\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
+"memory@weblate.org>\n"
 "Language-Team: Bulgarian <https://translate.wavelog.org/projects/dev-project/"
 "dev-installer/bg/>\n"
 "Language: bg_BG\n"
@@ -374,8 +376,9 @@ msgid "Confirm Password"
 msgstr "Потвърдете паролата"
 
 #: install/index.php:598
+#, fuzzy
 msgid "City"
-msgstr ""
+msgstr "Град"
 
 #: install/index.php:602
 #, fuzzy
