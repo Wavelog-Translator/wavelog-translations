@@ -4,12 +4,13 @@
 #
 # Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2024.
 # Weblate <noreply-mt-weblate@weblate.org>, 2024.
+# OpenAI <noreply-mt-openai@weblate.org>, 2024.
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: translations@wavelog.org\n"
 "POT-Creation-Date: 2024-07-09 09:22+0200\n"
 "PO-Revision-Date: 2024-07-11 17:26+0000\n"
-"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
+"Last-Translator: OpenAI <noreply-mt-openai@weblate.org>\n"
 "Language-Team: Russian <https://translate.wavelog.org/projects/dev-project/"
 "dev-installer/ru/>\n"
 "Language: ru_RU\n"
@@ -361,10 +362,14 @@ msgid "Connection Test"
 msgstr "Проверка соединения"
 
 #: install/index.php:559
+#, fuzzy
 msgid ""
 ">Now you can create your first user in Wavelog. Fill out all fields and "
 "click continue.<br>Make sure you use a proper password."
 msgstr ""
+">Теперь вы можете создать своего первого пользователя в Wavelog. Заполните "
+"все поля и нажмите продолжить.<br>Убедитесь, что вы используете правильный "
+"пароль."
 
 #: install/index.php:568
 #, fuzzy
