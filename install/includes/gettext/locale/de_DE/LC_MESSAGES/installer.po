@@ -4,14 +4,14 @@
 #
 # Fabian Berg <hb9hil@wavelog.org>, 2024.
 # Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2024.
+# Weblate <noreply-mt-weblate@weblate.org>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translations@wavelog.org\n"
 "POT-Creation-Date: 2024-07-09 09:22+0200\n"
 "PO-Revision-Date: 2024-07-11 17:29+0000\n"
-"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
-"memory@weblate.org>\n"
+"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
 "Language-Team: German <https://translate.wavelog.org/projects/dev-project/"
 "dev-installer/de/>\n"
 "Language: de_DE\n"
@@ -482,11 +482,15 @@ msgid "The E-Mail Address is not valid"
 msgstr "Die E-Mail-Adresse ist nicht gültig"
 
 #: install/index.php:1440
+#, fuzzy
 msgid ""
 "The grid locator is not valid. Use a 6-character locator, e.g. HA44AA. If "
 "you don't know your grid square then <a href='&s' target='_blank'>click "
 "here</a>!"
 msgstr ""
+"Der Grid-Locator ist nicht gültig. Verwende einen 6-stelligen Locator, z.B. "
+"HA44AA. Wenn du dein Planquadrat nicht kennst, dann <a href='%s' "
+"target='_blank'>klicke hier</a>!"
 
 #: install/index.php:1547
 #, fuzzy, php-format
