@@ -161,6 +161,16 @@ $config['languages'] = array(
 		'code'      => 'it',
 		'flag'      => 'it',
 	),
+	'japanese' => array(
+		'name'      => '日本語',
+		'name_en'   => 'Japanese',
+		'folder'    => 'japanese',
+		'locale'    => 'ja',
+		'gettext'   => 'ja',
+		'direction' => 'ltr',
+		'code'      => 'ja',
+		'flag'      => 'ja',
+	),
 	'polish' => array(
 		'name'      => 'Polski',
 		'name_en'   => 'Polish',

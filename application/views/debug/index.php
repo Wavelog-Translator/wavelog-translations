@@ -597,6 +597,7 @@
     <?= __("German"); ?>
     <?= __("Greek"); ?>
     <?= __("Italian"); ?>
+    <?= __("Japanese"); ?>
     <?= __("Polish"); ?>
     <?= __("Russian"); ?>
     <?= __("Spanish"); ?>
