@@ -2,19 +2,21 @@
 # Copyright (c) 2024 Wavelog by DF2ET, DJ7NT, HB9HIL and LA8AJA.
 # This file is distributed under the MIT licence.
 #
+# Weblate <noreply-mt-weblate@weblate.org>, 2024.
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: translations@wavelog.org\n"
 "POT-Creation-Date: 2024-07-09 09:22+0200\n"
-"PO-Revision-Date: 2024-06-05 15:15+0200\n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2024-07-11 17:28+0000\n"
+"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
+"Language-Team: Chinese (Simplified) <https://translate.wavelog.org/projects/"
+"dev-project/dev-installer/zh_Hans/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-Generator: Weblate 5.6\n"
 
 #: install/index.php:213
 msgid "Install | Wavelog"
@@ -108,24 +110,27 @@ msgid "PHP Settings"
 msgstr ""
 
 #: install/index.php:410
+#, fuzzy
 msgid "On"
-msgstr ""
+msgstr "开启"
 
 #: install/index.php:413
 msgid "Off"
 msgstr ""
 
 #: install/index.php:421
+#, fuzzy
 msgid "MySQL / MariaDB"
-msgstr ""
+msgstr "MySQL / MariaDB"
 
 #: install/index.php:424
 msgid "Min. MySQL Version:"
 msgstr ""
 
 #: install/index.php:428
+#, fuzzy
 msgid "or"
-msgstr ""
+msgstr "或者"
 
 #: install/index.php:432
 msgid "Min. MariaDB Version:"
@@ -410,11 +415,14 @@ msgid "The E-Mail Address is not valid"
 msgstr ""
 
 #: install/index.php:1440
+#, fuzzy
 msgid ""
 "The grid locator is not valid. Use a 6-character locator, e.g. HA44AA. If "
 "you don't know your grid square then <a href='&s' target='_blank'>click "
 "here</a>!"
 msgstr ""
+"网格地址无效，请使用 6 位地址如 HA44AA，如果不清楚请在 <a href='%s' "
+"target='_blank'>这里</a> 查看！"
 
 #: install/index.php:1547
 #, php-format
