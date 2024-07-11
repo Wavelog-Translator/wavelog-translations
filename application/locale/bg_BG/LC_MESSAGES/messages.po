@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: translations@wavelog.org\n"
 "POT-Creation-Date: 2024-07-11 18:58+0200\n"
-"PO-Revision-Date: 2024-07-11 16:49+0000\n"
+"PO-Revision-Date: 2024-07-11 17:01+0000\n"
 "Last-Translator: Fabian Berg <hb9hil@wavelog.org>\n"
 "Language-Team: Bulgarian <https://translate.wavelog.org/projects/dev-project/"
 "dev-translations/bg/>\n"
@@ -92,7 +92,7 @@ msgstr "Неподдържан файлов тип"
 
 #: application/controllers/Adif.php:247
 msgid "Station Profile not valid for User"
-msgstr ""
+msgstr "Профилът на станцията не е валиден за потребителя"
 
 #: application/controllers/Adif.php:254
 #: application/views/adif/import_success.php:12
