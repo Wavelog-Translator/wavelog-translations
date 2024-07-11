@@ -2,12 +2,13 @@
 # Copyright (c) 2024 Wavelog by DF2ET, DJ7NT, HB9HIL and LA8AJA.
 # This file is distributed under the MIT licence.
 #
+# Fabian Berg <hb9hil@wavelog.org>, 2024.
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: translations@wavelog.org\n"
 "POT-Creation-Date: 2024-07-08 12:02+0000\n"
-"PO-Revision-Date: 2024-07-09 13:51+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2024-07-11 14:12+0000\n"
+"Last-Translator: Fabian Berg <hb9hil@wavelog.org>\n"
 "Language-Team: Swedish <https://translate.wavelog.org/projects/dev-project/dev-translations/sv/>\n"
 "Language: sv_SE\n"
 "MIME-Version: 1.0\n"
@@ -24,7 +25,7 @@ msgstr "Ackumulerad statistik"
 #: application/controllers/Activated_gridmap.php:10
 #: application/views/activated_gridmap/index.php:5
 msgid "Activated Gridsquare Map"
-msgstr ""
+msgstr "Aktiverad rutnätskarta"
 
 #: application/controllers/Activated_gridmap.php:31
 #: application/controllers/Awards.php:910
@@ -34,7 +35,7 @@ msgstr ""
 #: application/views/activators/index.php:101
 #: application/views/visitor/layout/header.php:68
 msgid "Gridsquares"
-msgstr ""
+msgstr "Rutrutor"
 
 #: application/controllers/Activated_gridmap.php:32
 #: application/controllers/Gridmap.php:32
