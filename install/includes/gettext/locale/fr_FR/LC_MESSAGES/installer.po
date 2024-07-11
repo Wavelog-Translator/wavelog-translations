@@ -2,218 +2,286 @@
 # Copyright (c) 2024 Wavelog by DF2ET, DJ7NT, HB9HIL and LA8AJA.
 # This file is distributed under the MIT licence.
 #
+# OpenAI <noreply-mt-openai@weblate.org>, 2024.
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: translations@wavelog.org\n"
 "POT-Creation-Date: 2024-07-11 19:29+0200\n"
-"PO-Revision-Date: 2024-06-05 15:15+0200\n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2024-07-11 17:32+0000\n"
+"Last-Translator: OpenAI <noreply-mt-openai@weblate.org>\n"
+"Language-Team: French <https://translate.wavelog.org/projects/dev-project/"
+"dev-installer/fr/>\n"
 "Language: fr_FR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-Generator: Weblate 5.6\n"
 
 #: install/index.php:213
+#, fuzzy
 msgid "Install | Wavelog"
-msgstr ""
+msgstr "Installer | Wavelog"
 
 #: install/index.php:237
+#, fuzzy
 msgid "1. Welcome"
-msgstr ""
+msgstr "1. Bienvenue"
 
 #: install/index.php:240
+#, fuzzy
 msgid "2. Pre Checks"
-msgstr ""
+msgstr "2. Vérifications préalables"
 
 #: install/index.php:243
+#, fuzzy
 msgid "3. Configuration"
-msgstr ""
+msgstr "3. Configuration"
 
 #: install/index.php:246
+#, fuzzy
 msgid "4. Database"
-msgstr ""
+msgstr "4. Base de données"
 
 #: install/index.php:249
+#, fuzzy
 msgid "5. First User"
-msgstr ""
+msgstr "5. Premier utilisateur"
 
 #: install/index.php:252
+#, fuzzy
 msgid "6. Finish"
-msgstr ""
+msgstr "6. Terminer"
 
 #: install/index.php:269
+#, fuzzy
 msgid "Welcome to the Wavelog Installer"
-msgstr ""
+msgstr "Bienvenue dans l'installateur de Wavelog"
 
 #: install/index.php:270
+#, fuzzy
 msgid ""
 "This installer will guide you through the necessary steps for the "
 "installation of Wavelog. <br>Wavelog is a powerful web-based amateur radio "
 "logging software. Follow the steps in each tab to configure and install "
 "Wavelog on your server."
 msgstr ""
+"Cet installateur vous guidera à travers les étapes nécessaires pour "
+"l'installation de Wavelog. <br>Wavelog est un puissant logiciel de "
+"journalisation radioamateur basé sur le web. Suivez les étapes de chaque "
+"onglet pour configurer et installer Wavelog sur votre serveur."
 
 #: install/index.php:271
+#, fuzzy
 msgid "Discussions"
-msgstr ""
+msgstr "Discussions"
 
 #: install/index.php:271
-#, php-format
+#, fuzzy, php-format
 msgid ""
 "If you encounter any issues or have questions, refer to the documentation "
 "(%s) or community forum (%s) on Github for assistance."
 msgstr ""
+"Si vous rencontrez des problèmes ou avez des questions, consultez la "
+"documentation (%s) ou le forum communautaire (%s) sur Github pour obtenir de "
+"l'aide."
 
 #: install/index.php:271
+#, fuzzy
 msgid "Wiki"
-msgstr ""
+msgstr "Wiki"
 
 #: install/index.php:272
+#, fuzzy
 msgid "Thank you for installing Wavelog!"
-msgstr ""
+msgstr "Merci d'avoir installé Wavelog!"
 
 #: install/index.php:273 install/index.php:276 install/index.php:1123
+#, fuzzy
 msgid "Language"
-msgstr ""
+msgstr "Langue"
 
 #: install/index.php:286
+#, fuzzy
 msgid "Select a language"
-msgstr ""
+msgstr "Sélectionnez une langue"
 
 #: install/index.php:299
 msgid "Close"
 msgstr ""
 
 #: install/index.php:309
+#, fuzzy
 msgid "PHP Modules"
-msgstr ""
+msgstr "Modules PHP"
 
 #: install/index.php:316
+#, fuzzy
 msgid "Version"
-msgstr ""
+msgstr "Version"
 
 #: install/index.php:338
+#, fuzzy
 msgid "Installed"
-msgstr ""
+msgstr "Installé"
 
 #: install/index.php:338
+#, fuzzy
 msgid "Not Installed"
-msgstr ""
+msgstr "Non installé"
 
 #: install/index.php:346
+#, fuzzy
 msgid "PHP Settings"
-msgstr ""
+msgstr "Paramètres PHP"
 
 #: install/index.php:410
+#, fuzzy
 msgid "On"
-msgstr ""
+msgstr "Activé"
 
 #: install/index.php:413
+#, fuzzy
 msgid "Off"
-msgstr ""
+msgstr "Désactivé"
 
 #: install/index.php:421
+#, fuzzy
 msgid "MySQL / MariaDB"
-msgstr ""
+msgstr "MySQL / MariaDB"
 
 #: install/index.php:424
+#, fuzzy
 msgid "Min. MySQL Version:"
-msgstr ""
+msgstr "Version Min. MySQL :"
 
 #: install/index.php:428
+#, fuzzy
 msgid "or"
-msgstr ""
+msgstr "ou"
 
 #: install/index.php:432
+#, fuzzy
 msgid "Min. MariaDB Version:"
-msgstr ""
+msgstr "Version Min. MariaDB :"
 
 #: install/index.php:436
+#, fuzzy
 msgid "You can test your MySQL/MariaDB Version in Step 4"
-msgstr ""
+msgstr "Vous pouvez tester votre version MySQL/MariaDB à l'étape 4"
 
 #: install/index.php:440
+#, fuzzy
 msgid "Some Checks have failed!"
-msgstr ""
+msgstr "Certaines vérifications ont échoué !"
 
 #: install/index.php:441
+#, fuzzy
 msgid "Check your PHP settings and install missing modules if necessary."
 msgstr ""
+"Vérifiez vos paramètres PHP et installez les modules manquants si nécessaire."
 
 #: install/index.php:442
+#, fuzzy
 msgid ""
 "After that, you have to restart your webserver and start the installer again."
 msgstr ""
+"Après cela, vous devez redémarrer votre serveur web et relancer "
+"l'installateur."
 
 #: install/index.php:446
+#, fuzzy
 msgid "You have some warnings!"
-msgstr ""
+msgstr "Vous avez des avertissements !"
 
 #: install/index.php:447
+#, fuzzy
 msgid ""
 "Some of the settings are not optimal. You can proceed with the installer but "
 "be aware that you could run into problems while using Wavelog."
 msgstr ""
+"Certains paramètres ne sont pas optimaux. Vous pouvez continuer avec "
+"l'installateur mais soyez conscient que vous pourriez rencontrer des "
+"problèmes en utilisant Wavelog."
 
 #: install/index.php:451
+#, fuzzy
 msgid "All Checks are OK. You can continue."
-msgstr ""
+msgstr "Toutes les vérifications sont OK. Vous pouvez continuer."
 
 #: install/index.php:465
+#, fuzzy
 msgid ""
 "Configure some basic parameters for your wavelog instance. You can change "
 "them later in 'application/config/config.php'"
 msgstr ""
+"Configurez quelques paramètres de base pour votre instance Wavelog. Vous "
+"pouvez les modifier plus tard dans 'application/config/config.php'"
 
 #: install/index.php:467
+#, fuzzy
 msgid "Directory"
-msgstr ""
+msgstr "Répertoire"
 
 #: install/index.php:467
+#, fuzzy
 msgid ""
 "The 'Directory' is basically your subfolder of the webroot In normal "
 "conditions the prefilled value is doing it's job. It also can be empty."
 msgstr ""
+"Le 'Répertoire' est essentiellement votre sous-dossier de la racine web. "
+"Dans des conditions normales, la valeur préremplie fait son travail. Il peut "
+"également être vide."
 
 #: install/index.php:474
-#, php-format
+#, fuzzy, php-format
 msgid ""
 "This is the complete URL where your Wavelog Instance will be available. If "
 "you run this installer locally but want to place Wavelog behind a Reverse "
 "Proxy with SSL you should type in the new URL here (e.g. %s instead of %s). "
 "Don't forget to include the directory from above."
 msgstr ""
+"Ceci est l'URL complète où votre instance Wavelog sera disponible. Si vous "
+"exécutez cet installateur localement mais souhaitez placer Wavelog derrière "
+"un proxy inverse avec SSL, vous devez taper la nouvelle URL ici (par exemple "
+"%s au lieu de %s). N'oubliez pas d'inclure le répertoire ci-dessus."
 
 #: install/index.php:474
+#, fuzzy
 msgid "Website URL"
-msgstr ""
+msgstr "URL du site web"
 
 #: install/index.php:477
+#, fuzzy
 msgid "This field can't be empty!"
-msgstr ""
+msgstr "Ce champ ne peut pas être vide !"
 
 #: install/index.php:481
+#, fuzzy
 msgid "Default Gridsquare/Locator"
-msgstr ""
+msgstr "Grille/Localisateur par défaut"
 
 #: install/index.php:481
+#, fuzzy
 msgid ""
 "This is the default maidenhead locator which is used as falback. You can use "
 "the locator of your Home QTH."
 msgstr ""
+"Ceci est le localisateur maidenhead par défaut utilisé en cas de besoin. "
+"Vous pouvez utiliser le localisateur de votre QTH domicile."
 
 #: install/index.php:484
+#, fuzzy
 msgid "Type in a valid locator"
-msgstr ""
+msgstr "Entrez un localisateur valide"
 
 #: install/index.php:488
+#, fuzzy
 msgid "Optional: Global Callbook Lookup"
-msgstr ""
+msgstr "Optionnel : Recherche globale dans l'annuaire"
 
 #: install/index.php:488
+#, fuzzy
 msgid ""
 "This configuration is optional. The callsign lookup will be available for "
 "all users of this installation. You can choose between QRZ.com and HamQTH. "
@@ -221,6 +289,13 @@ msgid ""
 "credentials for QRZ.com. To also get the Call Locator in QRZ.com you'll need "
 "an XML subscription. HamQTH does not always provide the locator information."
 msgstr ""
+"Cette configuration est optionnelle. La recherche de l'indicatif sera "
+"disponible pour tous les utilisateurs de cette installation. Vous pouvez "
+"choisir entre QRZ.com et HamQTH. Bien que HamQTH fonctionne également sans "
+"nom d'utilisateur et mot de passe, vous aurez besoin de credentials pour "
+"QRZ.com. Pour obtenir également le Call Locator sur QRZ.com, vous aurez "
+"besoin d'un abonnement XML. HamQTH ne fournit pas toujours les informations "
+"de localisateur."
 
 #: install/index.php:497 install/index.php:540 install/index.php:572
 msgid "Username"
@@ -231,52 +306,72 @@ msgid "Password"
 msgstr ""
 
 #: install/index.php:505
+#, fuzzy
 msgid "Callbook Username"
-msgstr ""
+msgstr "Nom d'utilisateur de l'annuaire"
 
 #: install/index.php:508
+#, fuzzy
 msgid "Callbook Password"
-msgstr ""
+msgstr "Mot de passe de l'annuaire"
 
 #: install/index.php:524
+#, fuzzy
 msgid ""
 "To properly install Wavelog you already should have setup a mariadb/mysql "
 "database. Provide the parameters here."
 msgstr ""
+"Pour installer correctement Wavelog, vous devez déjà avoir configuré une "
+"base de données mariadb/mysql. Fournissez les paramètres ici."
 
 #: install/index.php:528
+#, fuzzy
 msgid "Hostname or IP"
-msgstr ""
+msgstr "Nom d'hôte ou IP"
 
 #: install/index.php:528
+#, fuzzy
 msgid "Usually 'localhost'. Optional with '...:[port]'. Default Port: 3306"
 msgstr ""
+"Habituellement 'localhost'. Optionnel avec '...:[port]'. Port par défaut : "
+"3306"
 
 #: install/index.php:534
+#, fuzzy
 msgid "Database Name"
-msgstr ""
+msgstr "Nom de la base de données"
 
 #: install/index.php:534
+#, fuzzy
 msgid "Name of the Database"
-msgstr ""
+msgstr "Nom de la base de données"
 
 #: install/index.php:540
+#, fuzzy
 msgid "Username of the Database User which has full access to the database."
 msgstr ""
+"Nom d'utilisateur de l'utilisateur de la base de données qui a un accès "
+"complet à la base de données."
 
 #: install/index.php:544
+#, fuzzy
 msgid "Password of the Database User"
-msgstr ""
+msgstr "Mot de passe de l'utilisateur de la base de données"
 
 #: install/index.php:548
+#, fuzzy
 msgid "Connection Test"
-msgstr ""
+msgstr "Test de connexion"
 
 #: install/index.php:559
+#, fuzzy
 msgid ""
 ">Now you can create your first user in Wavelog. Fill out all fields and "
 "click continue.<br>Make sure you use a proper password."
 msgstr ""
+">Maintenant, vous pouvez créer votre premier utilisateur dans Wavelog. "
+"Remplissez tous les champs et cliquez sur continuer.<br>Assurez-vous "
+"d'utiliser un mot de passe approprié."
 
 #: install/index.php:568
 msgid "First Name"
@@ -299,12 +394,14 @@ msgid "City"
 msgstr ""
 
 #: install/index.php:602
+#, fuzzy
 msgid "E-Mail Address"
-msgstr ""
+msgstr "Adresse e-mail"
 
 #: install/index.php:608
+#, fuzzy
 msgid "Gridsquare/Locator"
-msgstr ""
+msgstr "Grille/Localisateur"
 
 #: install/index.php:612
 msgid "Timezone"
@@ -315,9 +412,10 @@ msgid "DXCC"
 msgstr ""
 
 #: install/index.php:717
+#, fuzzy
 msgctxt "No DXCC"
 msgid "- None -"
-msgstr ""
+msgstr "- Aucun -"
 
 #: install/index.php:718 install/index.php:724 install/index.php:748
 #: install/index.php:760 install/index.php:763 install/index.php:768
@@ -344,142 +442,186 @@ msgid "Deleted DXCC"
 msgstr ""
 
 #: install/index.php:1141
+#, fuzzy
 msgid "Checklist"
-msgstr ""
+msgstr "Liste de contrôle"
 
 #: install/index.php:1142
+#, fuzzy
 msgid "Configuration"
-msgstr ""
+msgstr "Configuration"
 
 #: install/index.php:1144
+#, fuzzy
 msgid "Database"
-msgstr ""
+msgstr "Base de données"
 
 #: install/index.php:1146
+#, fuzzy
 msgid "First User"
-msgstr ""
+msgstr "Premier utilisateur"
 
 #: install/index.php:1153
+#, fuzzy
 msgid "Nearly done!"
-msgstr ""
+msgstr "Presque terminé!"
 
 #: install/index.php:1154
+#, fuzzy
 msgid "You prepared all neccessary steps."
-msgstr ""
+msgstr "Vous avez préparé toutes les étapes nécessaires."
 
 #: install/index.php:1155
+#, fuzzy
 msgid "We now can install Wavelog. This process can take a few minutes."
 msgstr ""
+"Nous pouvons maintenant installer Wavelog. Ce processus peut prendre "
+"quelques minutes."
 
 #: install/index.php:1165
+#, fuzzy
 msgid "Back"
-msgstr ""
+msgstr "Retour"
 
 #: install/index.php:1166
+#, fuzzy
 msgid "Continue"
-msgstr ""
+msgstr "Continuer"
 
 #: install/index.php:1191
+#, fuzzy
 msgid "Error: All fields are required."
-msgstr ""
+msgstr "Erreur : Tous les champs sont obligatoires."
 
 #: install/index.php:1197
+#, fuzzy
 msgid "Connecting..."
-msgstr ""
+msgstr "Connexion..."
 
 #: install/index.php:1222
+#, fuzzy
 msgid "Connection was successful and your database should be compatible"
 msgstr ""
+"La connexion a été réussie et votre base de données devrait être compatible"
 
 #: install/index.php:1228
+#, fuzzy
 msgid ""
 "Connection was successful but your database seems too old for Wavelog. You "
 "can try to continue but you could run into issues."
 msgstr ""
+"La connexion a été réussie mais votre base de données semble trop ancienne "
+"pour Wavelog. Vous pouvez essayer de continuer mais vous pourriez rencontrer "
+"des problèmes."
 
 #: install/index.php:1382
+#, fuzzy
 msgid "Password should be at least 8 characters long"
-msgstr ""
+msgstr "Le mot de passe doit comporter au moins 8 caractères"
 
 #: install/index.php:1398
+#, fuzzy
 msgid "Passwords do not match"
-msgstr ""
+msgstr "Les mots de passe ne correspondent pas"
 
 #: install/index.php:1416
+#, fuzzy
 msgid "The E-Mail Address is not valid"
-msgstr ""
+msgstr "L'adresse e-mail n'est pas valide"
 
 #: install/index.php:1440
+#, fuzzy
 msgid ""
 "The grid locator is not valid. Use a 6-character locator, e.g. HA44AA. If "
 "you don't know your grid square then <a href='&s' target='_blank'>click "
 "here</a>!"
 msgstr ""
+"Le localisateur de grille n'est pas valide. Utilisez un localisateur de 6 "
+"caractères, par exemple HA44AA. Si vous ne connaissez pas votre carré de "
+"grille, alors <a href='&s' target='_blank'>cliquez ici</a>!"
 
 #: install/index.php:1547
-#, php-format
+#, fuzzy, php-format
 msgid ""
 "Please make the %s folder writable. <strong>Example</strong>:<br /><br /"
 "><code>chmod -R 777 %s</code><br /><br /><i>Don't forget to restore the "
 "permissions afterwards.</i>"
 msgstr ""
+"Veuillez rendre le dossier %s accessible en écriture. "
+"<strong>Exemple</strong>:<br /><br /><code>chmod -R 777 %s</code><br /><br /"
+"><i>N'oubliez pas de restaurer les permissions par la suite.</i>"
 
 #: install/index.php:1562
+#, fuzzy
 msgid "Bulgarian"
-msgstr ""
+msgstr "Bulgare"
 
 #: install/index.php:1563
+#, fuzzy
 msgid "Chinese (Simplified)"
-msgstr ""
+msgstr "Chinois (Simplifié)"
 
 #: install/index.php:1564
+#, fuzzy
 msgid "Czech"
-msgstr ""
+msgstr "Tchèque"
 
 #: install/index.php:1565
+#, fuzzy
 msgid "Dutch"
-msgstr ""
+msgstr "Néerlandais"
 
 #: install/index.php:1566
+#, fuzzy
 msgid "English"
-msgstr ""
+msgstr "Anglais"
 
 #: install/index.php:1567
+#, fuzzy
 msgid "Finnish"
-msgstr ""
+msgstr "Finnois"
 
 #: install/index.php:1568
+#, fuzzy
 msgid "French"
-msgstr ""
+msgstr "Français"
 
 #: install/index.php:1569
+#, fuzzy
 msgid "German"
-msgstr ""
+msgstr "Allemand"
 
 #: install/index.php:1570
+#, fuzzy
 msgid "Greek"
-msgstr ""
+msgstr "Grec"
 
 #: install/index.php:1571
+#, fuzzy
 msgid "Italian"
-msgstr ""
+msgstr "Italien"
 
 #: install/index.php:1572
+#, fuzzy
 msgid "Polish"
-msgstr ""
+msgstr "Polonais"
 
 #: install/index.php:1573
+#, fuzzy
 msgid "Russian"
-msgstr ""
+msgstr "Russe"
 
 #: install/index.php:1574
+#, fuzzy
 msgid "Spanish"
-msgstr ""
+msgstr "Espagnol"
 
 #: install/index.php:1575
+#, fuzzy
 msgid "Swedish"
-msgstr ""
+msgstr "Suédois"
 
 #: install/index.php:1576
+#, fuzzy
 msgid "Turkish"
-msgstr ""
+msgstr "Turc"
