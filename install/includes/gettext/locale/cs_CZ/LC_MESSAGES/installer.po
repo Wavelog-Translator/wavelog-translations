@@ -3,12 +3,14 @@
 # This file is distributed under the MIT licence.
 #
 # OpenAI <noreply-mt-openai@weblate.org>, 2024.
+# Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2024.
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: translations@wavelog.org\n"
 "POT-Creation-Date: 2024-07-09 09:22+0200\n"
 "PO-Revision-Date: 2024-07-11 17:29+0000\n"
-"Last-Translator: OpenAI <noreply-mt-openai@weblate.org>\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
+"memory@weblate.org>\n"
 "Language-Team: Czech <https://translate.wavelog.org/projects/dev-project/"
 "dev-installer/cs/>\n"
 "Language: cs_CZ\n"
@@ -293,12 +295,14 @@ msgstr ""
 "potřebovat XML předplatné. HamQTH ne vždy poskytuje informace o locatoru."
 
 #: install/index.php:497 install/index.php:540 install/index.php:572
+#, fuzzy
 msgid "Username"
-msgstr ""
+msgstr "Uživatelské jméno"
 
 #: install/index.php:500 install/index.php:544 install/index.php:582
+#, fuzzy
 msgid "Password"
-msgstr ""
+msgstr "Heslo"
 
 #: install/index.php:505
 #, fuzzy
@@ -364,24 +368,29 @@ msgstr ""
 "a klikni na pokračovat.<br>Ujisti se, že používáš správné heslo."
 
 #: install/index.php:568
+#, fuzzy
 msgid "First Name"
-msgstr ""
+msgstr "Jméno"
 
 #: install/index.php:578
+#, fuzzy
 msgid "Last Name"
-msgstr ""
+msgstr "Příjmení"
 
 #: install/index.php:588
+#, fuzzy
 msgid "Callsign"
-msgstr ""
+msgstr "Značka"
 
 #: install/index.php:592
+#, fuzzy
 msgid "Confirm Password"
-msgstr ""
+msgstr "Potvrzení hesla"
 
 #: install/index.php:598
+#, fuzzy
 msgid "City"
-msgstr ""
+msgstr "Město"
 
 #: install/index.php:602
 #, fuzzy
@@ -394,12 +403,14 @@ msgid "Gridsquare/Locator"
 msgstr "Lokátor"
 
 #: install/index.php:612
+#, fuzzy
 msgid "Timezone"
-msgstr ""
+msgstr "Časové pásmo"
 
 #: install/index.php:715
+#, fuzzy
 msgid "DXCC"
-msgstr ""
+msgstr "DXCC"
 
 #: install/index.php:717
 #, fuzzy
@@ -428,8 +439,9 @@ msgstr "- Žádné -"
 #: install/index.php:1067 install/index.php:1073 install/index.php:1076
 #: install/index.php:1079 install/index.php:1084 install/index.php:1110
 #: install/index.php:1116 install/index.php:1118
+#, fuzzy
 msgid "Deleted DXCC"
-msgstr ""
+msgstr "Smazané DXCC"
 
 #: install/index.php:1141
 #, fuzzy
