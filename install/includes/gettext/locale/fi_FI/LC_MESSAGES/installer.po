@@ -3,12 +3,14 @@
 # This file is distributed under the MIT licence.
 #
 # OpenAI <noreply-mt-openai@weblate.org>, 2024.
+# Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2024.
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: translations@wavelog.org\n"
 "POT-Creation-Date: 2024-07-11 19:29+0200\n"
 "PO-Revision-Date: 2024-07-11 17:32+0000\n"
-"Last-Translator: OpenAI <noreply-mt-openai@weblate.org>\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
+"memory@weblate.org>\n"
 "Language-Team: Finnish <https://translate.wavelog.org/projects/dev-project/"
 "dev-installer/fi/>\n"
 "Language: fi_FI\n"
@@ -295,12 +297,14 @@ msgstr ""
 "tilauksen. HamQTH ei aina tarjoa paikannustietoja."
 
 #: install/index.php:497 install/index.php:540 install/index.php:572
+#, fuzzy
 msgid "Username"
-msgstr ""
+msgstr "käyttäjänimi"
 
 #: install/index.php:500 install/index.php:544 install/index.php:582
+#, fuzzy
 msgid "Password"
-msgstr ""
+msgstr "Salasana"
 
 #: install/index.php:505
 #, fuzzy
@@ -366,20 +370,24 @@ msgstr ""
 "napsauta jatka.<br>Varmista, että käytät asianmukaista salasanaa."
 
 #: install/index.php:568
+#, fuzzy
 msgid "First Name"
-msgstr ""
+msgstr "Etunimi"
 
 #: install/index.php:578
+#, fuzzy
 msgid "Last Name"
-msgstr ""
+msgstr "Sukunimi"
 
 #: install/index.php:588
+#, fuzzy
 msgid "Callsign"
-msgstr ""
+msgstr "Radioamatöörikutsu"
 
 #: install/index.php:592
+#, fuzzy
 msgid "Confirm Password"
-msgstr ""
+msgstr "Vahvista salasana"
 
 #: install/index.php:598
 #, fuzzy
@@ -397,8 +405,9 @@ msgid "Gridsquare/Locator"
 msgstr "Ruutu/Paikannin"
 
 #: install/index.php:612
+#, fuzzy
 msgid "Timezone"
-msgstr ""
+msgstr "Aikavyöhyke"
 
 #: install/index.php:715
 #, fuzzy
@@ -432,8 +441,9 @@ msgstr "- Ei mitään -"
 #: install/index.php:1067 install/index.php:1073 install/index.php:1076
 #: install/index.php:1079 install/index.php:1084 install/index.php:1110
 #: install/index.php:1116 install/index.php:1118
+#, fuzzy
 msgid "Deleted DXCC"
-msgstr ""
+msgstr "Poistettu DXCC"
 
 #: install/index.php:1141
 #, fuzzy
