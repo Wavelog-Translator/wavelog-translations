@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: translations@wavelog.org\n"
-"POT-Creation-Date: 2024-07-09 09:22+0200\n"
+"POT-Creation-Date: 2024-07-11 19:29+0200\n"
 "PO-Revision-Date: 2024-07-11 17:29+0000\n"
 "Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
 "memory@weblate.org>\n"
@@ -234,8 +234,8 @@ msgid ""
 msgstr ""
 "Това е пълният URL, където вашата Wavelog инстанция ще бъде достъпна. Ако "
 "стартирате този инсталатор локално, но искате да поставите Wavelog зад "
-"обратен прокси със SSL, трябва да въведете новия URL тук (напр. %s вместо %s)"
-". Не забравяйте да включите директорията отгоре."
+"обратен прокси със SSL, трябва да въведете новия URL тук (напр. %s вместо "
+"%s). Не забравяйте да включите директорията отгоре."
 
 #: install/index.php:474
 #, fuzzy
