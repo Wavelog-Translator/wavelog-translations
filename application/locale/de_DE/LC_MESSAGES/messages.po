@@ -10,7 +10,7 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: translations@wavelog.org\n"
-"POT-Creation-Date: 2024-07-11 18:51+0200\n"
+"POT-Creation-Date: 2024-07-11 18:58+0200\n"
 "PO-Revision-Date: 2024-07-09 13:54+0000\n"
 "Last-Translator: Fabian Berg <hb9hil@wavelog.org>\n"
 "Language-Team: German <https://translate.wavelog.org/projects/dev-project/"
@@ -2920,11 +2920,12 @@ msgid "Create a read-only key"
 msgstr "Erstelle einen Nur-Lesen Schlüssel"
 
 #: application/views/awards/counties/details.php:4
-#: application/views/awards/details.php:1
-#: application/views/awards/vucc/band.php:4
-#: application/views/timeline/details.php:2
-msgid "Filtering on"
-msgstr "Filtern auf"
+msgid "Filtering on TEST"
+msgstr ""
+
+#: application/views/awards/counties/details.php:4
+msgid "Testing more stuff here"
+msgstr ""
 
 #: application/views/awards/counties/details.php:13
 msgid "County"
@@ -3247,6 +3248,12 @@ msgstr "Gesamt gearbeitet"
 #: application/views/awards/was/index.php:188
 msgid "Total confirmed"
 msgstr "Gesamt bestätigt"
+
+#: application/views/awards/details.php:1
+#: application/views/awards/vucc/band.php:4
+#: application/views/timeline/details.php:2
+msgid "Filtering on"
+msgstr "Filtern auf"
 
 #: application/views/awards/dok/index.php:7
 msgid "DOK Award"

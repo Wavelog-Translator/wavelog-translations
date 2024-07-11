@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: translations@wavelog.org\n"
-"POT-Creation-Date: 2024-07-11 18:51+0200\n"
+"POT-Creation-Date: 2024-07-11 18:58+0200\n"
 "PO-Revision-Date: 2024-07-09 13:51+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Chinese (Simplified) <https://translate.wavelog.org/projects/"
@@ -2873,11 +2873,12 @@ msgid "Create a read-only key"
 msgstr "创建 只读 权限的 API Key"
 
 #: application/views/awards/counties/details.php:4
-#: application/views/awards/details.php:1
-#: application/views/awards/vucc/band.php:4
-#: application/views/timeline/details.php:2
-msgid "Filtering on"
-msgstr "筛选打开"
+msgid "Filtering on TEST"
+msgstr ""
+
+#: application/views/awards/counties/details.php:4
+msgid "Testing more stuff here"
+msgstr ""
 
 #: application/views/awards/counties/details.php:13
 msgid "County"
@@ -3191,6 +3192,12 @@ msgstr "共通联"
 #: application/views/awards/was/index.php:188
 msgid "Total confirmed"
 msgstr "共确认"
+
+#: application/views/awards/details.php:1
+#: application/views/awards/vucc/band.php:4
+#: application/views/timeline/details.php:2
+msgid "Filtering on"
+msgstr "筛选打开"
 
 #: application/views/awards/dok/index.php:7
 msgid "DOK Award"
