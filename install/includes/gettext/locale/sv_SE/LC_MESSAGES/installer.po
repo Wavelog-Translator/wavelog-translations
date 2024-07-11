@@ -2,155 +2,196 @@
 # Copyright (c) 2024 Wavelog by DF2ET, DJ7NT, HB9HIL and LA8AJA.
 # This file is distributed under the MIT licence.
 #
+# OpenAI <noreply-mt-openai@weblate.org>, 2024.
+# Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2024.
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: translations@wavelog.org\n"
 "POT-Creation-Date: 2024-07-09 09:22+0200\n"
-"PO-Revision-Date: 2024-06-05 15:15+0200\n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2024-07-11 17:28+0000\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
+"memory@weblate.org>\n"
+"Language-Team: Swedish <https://translate.wavelog.org/projects/dev-project/"
+"dev-installer/sv/>\n"
 "Language: sv_SE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.4.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.6\n"
 
 #: install/index.php:213
 msgid "Install | Wavelog"
 msgstr ""
 
 #: install/index.php:237
+#, fuzzy
 msgid "1. Welcome"
-msgstr ""
+msgstr "1. Välkommen"
 
 #: install/index.php:240
 msgid "2. Pre Checks"
 msgstr ""
 
 #: install/index.php:243
+#, fuzzy
 msgid "3. Configuration"
-msgstr ""
+msgstr "3. Konfiguration"
 
 #: install/index.php:246
+#, fuzzy
 msgid "4. Database"
-msgstr ""
+msgstr "4. Databas"
 
 #: install/index.php:249
+#, fuzzy
 msgid "5. First User"
-msgstr ""
+msgstr "5. Första användare"
 
 #: install/index.php:252
+#, fuzzy
 msgid "6. Finish"
-msgstr ""
+msgstr "6. Avsluta"
 
 #: install/index.php:269
+#, fuzzy
 msgid "Welcome to the Wavelog Installer"
-msgstr ""
+msgstr "Välkommen till Wavelog Installer"
 
 #: install/index.php:270
+#, fuzzy
 msgid ""
 "This installer will guide you through the necessary steps for the "
 "installation of Wavelog. <br>Wavelog is a powerful web-based amateur radio "
 "logging software. Follow the steps in each tab to configure and install "
 "Wavelog on your server."
 msgstr ""
+"Denna installationsguide kommer att leda dig genom de nödvändiga stegen för "
+"installationen av Wavelog. <br>Wavelog är en kraftfull webbaserad "
+"loggningsprogramvara för amatörradio. Följ stegen i varje flik för att "
+"konfigurera och installera Wavelog på din server."
 
 #: install/index.php:271
+#, fuzzy
 msgid "Discussions"
-msgstr ""
+msgstr "Diskussioner"
 
 #: install/index.php:271
-#, php-format
+#, fuzzy, php-format
 msgid ""
 "If you encounter any issues or have questions, refer to the documentation "
 "(%s) or community forum (%s) on Github for assistance."
 msgstr ""
+"Om du stöter på några problem eller har frågor, hänvisa till dokumentationen "
+"(%s) eller community-forumet (%s) på Github för hjälp."
 
 #: install/index.php:271
+#, fuzzy
 msgid "Wiki"
-msgstr ""
+msgstr "Wiki"
 
 #: install/index.php:272
+#, fuzzy
 msgid "Thank you for installing Wavelog!"
-msgstr ""
+msgstr "Tack för att du installerade Wavelog!"
 
 #: install/index.php:273 install/index.php:276 install/index.php:1123
+#, fuzzy
 msgid "Language"
-msgstr ""
+msgstr "Språk"
 
 #: install/index.php:286
+#, fuzzy
 msgid "Select a language"
-msgstr ""
+msgstr "Välj ett språk"
 
 #: install/index.php:299
+#, fuzzy
 msgid "Close"
-msgstr ""
+msgstr "Stäng"
 
 #: install/index.php:309
+#, fuzzy
 msgid "PHP Modules"
-msgstr ""
+msgstr "PHP Moduler"
 
 #: install/index.php:316
 msgid "Version"
 msgstr ""
 
 #: install/index.php:338
+#, fuzzy
 msgid "Installed"
-msgstr ""
+msgstr "Installerad"
 
 #: install/index.php:338
+#, fuzzy
 msgid "Not Installed"
-msgstr ""
+msgstr "Inte installerad"
 
 #: install/index.php:346
+#, fuzzy
 msgid "PHP Settings"
-msgstr ""
+msgstr "PHP-inställningar"
 
 #: install/index.php:410
+#, fuzzy
 msgid "On"
-msgstr ""
+msgstr "På"
 
 #: install/index.php:413
+#, fuzzy
 msgid "Off"
-msgstr ""
+msgstr "Av"
 
 #: install/index.php:421
+#, fuzzy
 msgid "MySQL / MariaDB"
-msgstr ""
+msgstr "MySQL / MariaDB"
 
 #: install/index.php:424
+#, fuzzy
 msgid "Min. MySQL Version:"
-msgstr ""
+msgstr "Min. MySQL-version:"
 
 #: install/index.php:428
+#, fuzzy
 msgid "or"
-msgstr ""
+msgstr "eller"
 
 #: install/index.php:432
+#, fuzzy
 msgid "Min. MariaDB Version:"
-msgstr ""
+msgstr "Min. MariaDB Version:"
 
 #: install/index.php:436
 msgid "You can test your MySQL/MariaDB Version in Step 4"
 msgstr ""
 
 #: install/index.php:440
+#, fuzzy
 msgid "Some Checks have failed!"
-msgstr ""
+msgstr "Några kontroller har misslyckats!"
 
 #: install/index.php:441
+#, fuzzy
 msgid "Check your PHP settings and install missing modules if necessary."
 msgstr ""
+"Kontrollera dina PHP-inställningar och installera saknade moduler om det "
+"behövs."
 
 #: install/index.php:442
+#, fuzzy
 msgid ""
 "After that, you have to restart your webserver and start the installer again."
 msgstr ""
+"Efter det måste du starta om din webbserver och starta "
+"installationsprogrammet igen."
 
 #: install/index.php:446
+#, fuzzy
 msgid "You have some warnings!"
-msgstr ""
+msgstr "Du har några varningar!"
 
 #: install/index.php:447
 msgid ""
@@ -159,8 +200,9 @@ msgid ""
 msgstr ""
 
 #: install/index.php:451
+#, fuzzy
 msgid "All Checks are OK. You can continue."
-msgstr ""
+msgstr "Alla kontroller är OK. Du kan fortsätta."
 
 #: install/index.php:465
 msgid ""
@@ -169,8 +211,9 @@ msgid ""
 msgstr ""
 
 #: install/index.php:467
+#, fuzzy
 msgid "Directory"
-msgstr ""
+msgstr "Katalog"
 
 #: install/index.php:467
 msgid ""
@@ -188,32 +231,40 @@ msgid ""
 msgstr ""
 
 #: install/index.php:474
+#, fuzzy
 msgid "Website URL"
-msgstr ""
+msgstr "Webbplatsens URL"
 
 #: install/index.php:477
+#, fuzzy
 msgid "This field can't be empty!"
-msgstr ""
+msgstr "Det här fältet kan inte vara tomt!"
 
 #: install/index.php:481
+#, fuzzy
 msgid "Default Gridsquare/Locator"
-msgstr ""
+msgstr "Standard Gridsquare/Lokator"
 
 #: install/index.php:481
+#, fuzzy
 msgid ""
 "This is the default maidenhead locator which is used as falback. You can use "
 "the locator of your Home QTH."
 msgstr ""
+"Detta är den förvalda maidenhead-lokatorn som används som reserv. Du kan "
+"använda lokatorn för din hem-QTH."
 
 #: install/index.php:484
 msgid "Type in a valid locator"
 msgstr ""
 
 #: install/index.php:488
+#, fuzzy
 msgid "Optional: Global Callbook Lookup"
-msgstr ""
+msgstr "Valfritt: Global Callbook Lookup"
 
 #: install/index.php:488
+#, fuzzy
 msgid ""
 "This configuration is optional. The callsign lookup will be available for "
 "all users of this installation. You can choose between QRZ.com and HamQTH. "
@@ -221,103 +272,135 @@ msgid ""
 "credentials for QRZ.com. To also get the Call Locator in QRZ.com you'll need "
 "an XML subscription. HamQTH does not always provide the locator information."
 msgstr ""
+"Denna konfiguration är valfri. Anropssignalsökningen kommer att vara "
+"tillgänglig för alla användare av denna installation. Du kan välja mellan "
+"QRZ.com och HamQTH. Medan HamQTH också fungerar utan användarnamn och "
+"lösenord, behöver du inloggningsuppgifter för QRZ.com. För att också få Call "
+"Locator i QRZ.com behöver du en XML-prenumeration. HamQTH tillhandahåller "
+"inte alltid lokatorinformation."
 
 #: install/index.php:497 install/index.php:540 install/index.php:572
+#, fuzzy
 msgid "Username"
-msgstr ""
+msgstr "Användarnamn"
 
 #: install/index.php:500 install/index.php:544 install/index.php:582
+#, fuzzy
 msgid "Password"
-msgstr ""
+msgstr "Lösenord"
 
 #: install/index.php:505
+#, fuzzy
 msgid "Callbook Username"
-msgstr ""
+msgstr "Callbook-användarnamn"
 
 #: install/index.php:508
+#, fuzzy
 msgid "Callbook Password"
-msgstr ""
+msgstr "Callbook Lösenord"
 
 #: install/index.php:524
+#, fuzzy
 msgid ""
 "To properly install Wavelog you already should have setup a mariadb/mysql "
 "database. Provide the parameters here."
 msgstr ""
+"För att korrekt installera Wavelog bör du redan ha satt upp en mariadb/mysql-"
+"databas. Ange parametrarna här."
 
 #: install/index.php:528
 msgid "Hostname or IP"
 msgstr ""
 
 #: install/index.php:528
+#, fuzzy
 msgid "Usually 'localhost'. Optional with '...:[port]'. Default Port: 3306"
-msgstr ""
+msgstr "Vanligtvis 'localhost'. Valfritt med '...:[port]'. Standardport: 3306"
 
 #: install/index.php:534
+#, fuzzy
 msgid "Database Name"
-msgstr ""
+msgstr "Databasnamn"
 
 #: install/index.php:534
 msgid "Name of the Database"
 msgstr ""
 
 #: install/index.php:540
+#, fuzzy
 msgid "Username of the Database User which has full access to the database."
 msgstr ""
+"Användarnamn för databas-användaren som har full åtkomst till databasen."
 
 #: install/index.php:544
+#, fuzzy
 msgid "Password of the Database User"
-msgstr ""
+msgstr "Lösenord för databas-användaren"
 
 #: install/index.php:548
+#, fuzzy
 msgid "Connection Test"
-msgstr ""
+msgstr "Anslutningstest"
 
 #: install/index.php:559
+#, fuzzy
 msgid ""
 ">Now you can create your first user in Wavelog. Fill out all fields and "
 "click continue.<br>Make sure you use a proper password."
 msgstr ""
+">Nu kan du skapa din första användare i Wavelog. Fyll i alla fält och klicka "
+"på fortsätt.<br>Se till att du använder ett ordentligt lösenord."
 
 #: install/index.php:568
+#, fuzzy
 msgid "First Name"
-msgstr ""
+msgstr "Förnamn"
 
 #: install/index.php:578
+#, fuzzy
 msgid "Last Name"
-msgstr ""
+msgstr "Efternamn"
 
 #: install/index.php:588
+#, fuzzy
 msgid "Callsign"
-msgstr ""
+msgstr "Anropssignal"
 
 #: install/index.php:592
+#, fuzzy
 msgid "Confirm Password"
-msgstr ""
+msgstr "Bekräfta lösenord"
 
 #: install/index.php:598
+#, fuzzy
 msgid "City"
-msgstr ""
+msgstr "Stad"
 
 #: install/index.php:602
+#, fuzzy
 msgid "E-Mail Address"
-msgstr ""
+msgstr "E-postadress"
 
 #: install/index.php:608
+#, fuzzy
 msgid "Gridsquare/Locator"
-msgstr ""
+msgstr "Gridsquare/Lokator"
 
 #: install/index.php:612
+#, fuzzy
 msgid "Timezone"
-msgstr ""
+msgstr "Tidszon"
 
 #: install/index.php:715
+#, fuzzy
 msgid "DXCC"
-msgstr ""
+msgstr "DXCC"
 
 #: install/index.php:717
+#, fuzzy
 msgctxt "No DXCC"
 msgid "- None -"
-msgstr ""
+msgstr "- Ingen -"
 
 #: install/index.php:718 install/index.php:724 install/index.php:748
 #: install/index.php:760 install/index.php:763 install/index.php:768
@@ -340,8 +423,9 @@ msgstr ""
 #: install/index.php:1067 install/index.php:1073 install/index.php:1076
 #: install/index.php:1079 install/index.php:1084 install/index.php:1110
 #: install/index.php:1116 install/index.php:1118
+#, fuzzy
 msgid "Deleted DXCC"
-msgstr ""
+msgstr "Struket DXCC"
 
 #: install/index.php:1141
 msgid "Checklist"
@@ -352,44 +436,53 @@ msgid "Configuration"
 msgstr ""
 
 #: install/index.php:1144
+#, fuzzy
 msgid "Database"
-msgstr ""
+msgstr "Databas"
 
 #: install/index.php:1146
+#, fuzzy
 msgid "First User"
-msgstr ""
+msgstr "Första användare"
 
 #: install/index.php:1153
+#, fuzzy
 msgid "Nearly done!"
-msgstr ""
+msgstr "Nästan klar!"
 
 #: install/index.php:1154
+#, fuzzy
 msgid "You prepared all neccessary steps."
-msgstr ""
+msgstr "Du förberedde alla nödvändiga steg."
 
 #: install/index.php:1155
+#, fuzzy
 msgid "We now can install Wavelog. This process can take a few minutes."
-msgstr ""
+msgstr "Nu kan vi installera Wavelog. Denna process kan ta några minuter."
 
 #: install/index.php:1165
+#, fuzzy
 msgid "Back"
-msgstr ""
+msgstr "Tillbaka"
 
 #: install/index.php:1166
+#, fuzzy
 msgid "Continue"
-msgstr ""
+msgstr "Fortsätt"
 
 #: install/index.php:1191
 msgid "Error: All fields are required."
 msgstr ""
 
 #: install/index.php:1197
+#, fuzzy
 msgid "Connecting..."
-msgstr ""
+msgstr "Ansluter..."
 
 #: install/index.php:1222
+#, fuzzy
 msgid "Connection was successful and your database should be compatible"
-msgstr ""
+msgstr "Anslutningen var framgångsrik och din databas bör vara kompatibel"
 
 #: install/index.php:1228
 msgid ""
@@ -402,84 +495,104 @@ msgid "Password should be at least 8 characters long"
 msgstr ""
 
 #: install/index.php:1398
+#, fuzzy
 msgid "Passwords do not match"
-msgstr ""
+msgstr "Lösenorden matchar inte"
 
 #: install/index.php:1416
+#, fuzzy
 msgid "The E-Mail Address is not valid"
-msgstr ""
+msgstr "E-postadressen är inte giltig"
 
 #: install/index.php:1440
+#, fuzzy
 msgid ""
 "The grid locator is not valid. Use a 6-character locator, e.g. HA44AA. If "
 "you don't know your grid square then <a href='&s' target='_blank'>click "
 "here</a>!"
 msgstr ""
+"Rutnätslokatorn är inte giltig. Använd en 6-teckens lokator, t.ex. HA44AA. "
+"Om du inte vet din rutnätsruta, <a href='&s' target='_blank'>klicka här</a>!"
 
 #: install/index.php:1547
-#, php-format
+#, fuzzy, php-format
 msgid ""
 "Please make the %s folder writable. <strong>Example</strong>:<br /><br /"
 "><code>chmod -R 777 %s</code><br /><br /><i>Don't forget to restore the "
 "permissions afterwards.</i>"
 msgstr ""
+"Gör mappen %s skrivbar. <strong>Exempel</strong>:<br /><br /><code>chmod -R "
+"777 %s</code><br /><br /><i>Glöm inte att återställa behörigheterna "
+"efteråt.</i>"
 
 #: install/index.php:1562
 msgid "Bulgarian"
 msgstr ""
 
 #: install/index.php:1563
+#, fuzzy
 msgid "Chinese (Simplified)"
-msgstr ""
+msgstr "Kinesiska (förenklad)"
 
 #: install/index.php:1564
 msgid "Czech"
 msgstr ""
 
 #: install/index.php:1565
+#, fuzzy
 msgid "Dutch"
-msgstr ""
+msgstr "Holländska"
 
 #: install/index.php:1566
+#, fuzzy
 msgid "English"
-msgstr ""
+msgstr "Engelska"
 
 #: install/index.php:1567
+#, fuzzy
 msgid "Finnish"
-msgstr ""
+msgstr "Finska"
 
 #: install/index.php:1568
+#, fuzzy
 msgid "French"
-msgstr ""
+msgstr "Franska"
 
 #: install/index.php:1569
+#, fuzzy
 msgid "German"
-msgstr ""
+msgstr "Tyska"
 
 #: install/index.php:1570
+#, fuzzy
 msgid "Greek"
-msgstr ""
+msgstr "Grekiska"
 
 #: install/index.php:1571
+#, fuzzy
 msgid "Italian"
-msgstr ""
+msgstr "Italienska"
 
 #: install/index.php:1572
+#, fuzzy
 msgid "Polish"
-msgstr ""
+msgstr "Polska"
 
 #: install/index.php:1573
 msgid "Russian"
 msgstr ""
 
 #: install/index.php:1574
+#, fuzzy
 msgid "Spanish"
-msgstr ""
+msgstr "Spanska"
 
 #: install/index.php:1575
+#, fuzzy
 msgid "Swedish"
-msgstr ""
+msgstr "Svenska"
 
 #: install/index.php:1576
+#, fuzzy
 msgid "Turkish"
-msgstr ""
+msgstr "Turkiska"
