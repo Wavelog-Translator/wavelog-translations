@@ -2,18 +2,21 @@
 # Copyright (c) 2024 Wavelog by DF2ET, DJ7NT, HB9HIL and LA8AJA.
 # This file is distributed under the MIT licence.
 #
+# Fabian Berg <hb9hil@wavelog.org>, 2024.
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: translations@wavelog.org\n"
 "POT-Creation-Date: 2024-07-11 16:15+0200\n"
-"PO-Revision-Date: 2024-07-09 13:51+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Polish <https://translate.wavelog.org/projects/dev-project/dev-translations/pl/>\n"
+"PO-Revision-Date: 2024-07-11 16:49+0000\n"
+"Last-Translator: Fabian Berg <hb9hil@wavelog.org>\n"
+"Language-Team: Polish <https://translate.wavelog.org/projects/dev-project/"
+"dev-translations/pl/>\n"
 "Language: pl_PL\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 5.6\n"
 
 #: application/controllers/Accumulated.php:21
@@ -3364,6 +3367,16 @@ msgstr ""
 #: application/views/awards/iota/index.php:18
 msgid "It is administered by Islands On The Air (IOTA) Ltd (referred to as IOTA Management) in partnership with the Radio Society of Great Britain (RSGB). IOTA Management has grouped the world's islands into approximately 1200 'IOTA groups,' each having varying numbers of 'counters,' which are qualifying islands. These listings are published in the IOTA Directory and on the IOTA website. The objective for the IOTA Island Chaser is to make radio contact with at least one counter in as many of these groups as possible. The program has a well-defined set of rules and encourages friendly competition among chasers by publishing participant performance in an Honor Roll and annual listings, as well as recognizing it with certificates and prestigious awards."
 msgstr ""
+"Jest zarządzany przez Islands On The Air (IOTA) Ltd (nazywany IOTA "
+"Management) we współpracy z Radio Society of Great Britain (RSGB). IOTA "
+"Management podzielił wyspy świata na około 1200 'grup IOTA', z których każda "
+"ma różną liczbę 'liczników', czyli kwalifikujących się wysp. Te listy są "
+"publikowane w IOTA Directory i na stronie internetowej IOTA. Celem dla IOTA "
+"Island Chaser jest nawiązanie kontaktu radiowego z co najmniej jednym "
+"licznikiem w jak największej liczbie tych grup. Program ma dobrze "
+"zdefiniowany zestaw zasad i zachęca do przyjaznej rywalizacji między "
+"uczestnikami, publikując wyniki uczestników w Honor Roll i rocznych listach, "
+"a także uznając je za pomocą certyfikatów i prestiżowych nagród."
 
 #: application/views/awards/iota/index.php:19
 #, php-format
