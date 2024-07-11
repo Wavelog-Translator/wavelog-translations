@@ -3,13 +3,13 @@
 # This file is distributed under the MIT licence.
 #
 # Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2024.
+# Weblate <noreply-mt-weblate@weblate.org>, 2024.
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: translations@wavelog.org\n"
 "POT-Creation-Date: 2024-07-09 09:22+0200\n"
 "PO-Revision-Date: 2024-07-11 17:26+0000\n"
-"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
-"memory@weblate.org>\n"
+"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
 "Language-Team: Russian <https://translate.wavelog.org/projects/dev-project/"
 "dev-installer/ru/>\n"
 "Language: ru_RU\n"
@@ -157,8 +157,9 @@ msgid "Min. MySQL Version:"
 msgstr "Мин. версия MySQL:"
 
 #: install/index.php:428
+#, fuzzy
 msgid "or"
-msgstr ""
+msgstr "или"
 
 #: install/index.php:432
 #, fuzzy
@@ -329,8 +330,9 @@ msgid "Hostname or IP"
 msgstr "Имя хоста или IP-адрес"
 
 #: install/index.php:528
+#, fuzzy
 msgid "Usually 'localhost'. Optional with '...:[port]'. Default Port: 3306"
-msgstr ""
+msgstr "Обычно 'localhost'. Опционально с '...:[порт]'. Порт по умолчанию: 3306"
 
 #: install/index.php:534
 #, fuzzy
@@ -527,11 +529,15 @@ msgid "The E-Mail Address is not valid"
 msgstr "Адрес электронной почты недействителен"
 
 #: install/index.php:1440
+#, fuzzy
 msgid ""
 "The grid locator is not valid. Use a 6-character locator, e.g. HA44AA. If "
 "you don't know your grid square then <a href='&s' target='_blank'>click "
 "here</a>!"
 msgstr ""
+"Локатор недействителен. Используйте 6-символьный локатор, например HA44AA. "
+"Если вы не знаете свой квадрат, то <a href='%s' target='_blank'>нажмите "
+"здесь</a>!"
 
 #: install/index.php:1547
 #, fuzzy, php-format
