@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: translations@wavelog.org\n"
-"POT-Creation-Date: 2024-07-09 09:22+0200\n"
+"POT-Creation-Date: 2024-07-11 19:32+0200\n"
 "PO-Revision-Date: 2024-07-11 17:28+0000\n"
 "Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
 "memory@weblate.org>\n"
@@ -453,8 +453,8 @@ msgid ""
 "permissions afterwards.</i>"
 msgstr ""
 "Gör mappen %s skrivbar. <strong>Exempel</strong>:<br /><br /><code>chmod -R "
-"777 %s</code><br /><br /><i>Glöm inte att återställa behörigheterna "
-"efteråt.</i>"
+"777 %s</code><br /><br /><i>Glöm inte att återställa behörigheterna efteråt."
+"</i>"
 
 #: install/index.php:1562
 msgid "Bulgarian"
@@ -497,21 +497,25 @@ msgid "Italian"
 msgstr "Italienska"
 
 #: install/index.php:1572
+msgid "Japanese"
+msgstr ""
+
+#: install/index.php:1573
 msgid "Polish"
 msgstr "Polska"
 
-#: install/index.php:1573
+#: install/index.php:1574
 msgid "Russian"
 msgstr ""
 
-#: install/index.php:1574
+#: install/index.php:1575
 msgid "Spanish"
 msgstr "Spanska"
 
-#: install/index.php:1575
+#: install/index.php:1576
 msgid "Swedish"
 msgstr "Svenska"
 
-#: install/index.php:1576
+#: install/index.php:1577
 msgid "Turkish"
 msgstr "Turkiska"

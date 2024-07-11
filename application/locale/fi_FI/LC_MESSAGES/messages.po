@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: translations@wavelog.org\n"
-"POT-Creation-Date: 2024-07-11 18:58+0200\n"
+"POT-Creation-Date: 2024-07-11 19:32+0200\n"
 "PO-Revision-Date: 2024-07-09 13:50+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Finnish <https://translate.wavelog.org/projects/dev-project/"
@@ -5351,22 +5351,26 @@ msgid "Italian"
 msgstr ""
 
 #: application/views/debug/index.php:600
-msgid "Polish"
+msgid "Japanese"
 msgstr ""
 
 #: application/views/debug/index.php:601
-msgid "Russian"
+msgid "Polish"
 msgstr ""
 
 #: application/views/debug/index.php:602
-msgid "Spanish"
+msgid "Russian"
 msgstr ""
 
 #: application/views/debug/index.php:603
-msgid "Swedish"
+msgid "Spanish"
 msgstr ""
 
 #: application/views/debug/index.php:604
+msgid "Swedish"
+msgstr ""
+
+#: application/views/debug/index.php:605
 msgid "Turkish"
 msgstr ""
 

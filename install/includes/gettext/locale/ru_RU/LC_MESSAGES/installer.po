@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: translations@wavelog.org\n"
-"POT-Creation-Date: 2024-07-09 09:22+0200\n"
+"POT-Creation-Date: 2024-07-11 19:32+0200\n"
 "PO-Revision-Date: 2024-07-11 17:26+0000\n"
 "Last-Translator: OpenAI <noreply-mt-openai@weblate.org>\n"
 "Language-Team: Russian <https://translate.wavelog.org/projects/dev-project/"
@@ -283,7 +283,8 @@ msgstr "Имя хоста или IP-адрес"
 
 #: install/index.php:528
 msgid "Usually 'localhost'. Optional with '...:[port]'. Default Port: 3306"
-msgstr "Обычно 'localhost'. Опционально с '...:[порт]'. Порт по умолчанию: 3306"
+msgstr ""
+"Обычно 'localhost'. Опционально с '...:[порт]'. Порт по умолчанию: 3306"
 
 #: install/index.php:534
 msgid "Database Name"
@@ -467,9 +468,9 @@ msgid ""
 "><code>chmod -R 777 %s</code><br /><br /><i>Don't forget to restore the "
 "permissions afterwards.</i>"
 msgstr ""
-"Пожалуйста, сделайте каталог %s доступным для записи. "
-"<strong>Пример</strong>:<br /><br /><code>chmod -R 777 %s</code><br /><br /"
-"><i> Не забудьте восстановить права доступа после этого.</i>"
+"Пожалуйста, сделайте каталог %s доступным для записи. <strong>Пример</"
+"strong>:<br /><br /><code>chmod -R 777 %s</code><br /><br /><i> Не забудьте "
+"восстановить права доступа после этого.</i>"
 
 #: install/index.php:1562
 msgid "Bulgarian"
@@ -512,21 +513,25 @@ msgid "Italian"
 msgstr "Итальянский"
 
 #: install/index.php:1572
+msgid "Japanese"
+msgstr ""
+
+#: install/index.php:1573
 msgid "Polish"
 msgstr "Польский"
 
-#: install/index.php:1573
+#: install/index.php:1574
 msgid "Russian"
 msgstr "Русский"
 
-#: install/index.php:1574
+#: install/index.php:1575
 msgid "Spanish"
 msgstr "Испанский"
 
-#: install/index.php:1575
+#: install/index.php:1576
 msgid "Swedish"
 msgstr "Шведский"
 
-#: install/index.php:1576
+#: install/index.php:1577
 msgid "Turkish"
 msgstr "Турецкий"
