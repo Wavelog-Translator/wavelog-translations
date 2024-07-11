@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: translations@wavelog.org\n"
-"POT-Creation-Date: 2024-07-11 19:29+0200\n"
+"POT-Creation-Date: 2024-07-11 19:32+0200\n"
 "PO-Revision-Date: 2024-07-11 17:33+0000\n"
 "Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
 "memory@weblate.org>\n"
@@ -606,31 +606,31 @@ msgstr "Grieks"
 msgid "Italian"
 msgstr "Italiaans"
 
-#: install/index.php:1572 install/index.php:1573
+#: install/index.php:1572
+msgid "Japanese"
+msgstr ""
+
+#: install/index.php:1573
 #, fuzzy
 msgid "Polish"
 msgstr "Pools"
 
-#: install/index.php:1573 install/index.php:1574
+#: install/index.php:1574
 #, fuzzy
 msgid "Russian"
 msgstr "Russisch"
 
-#: install/index.php:1574 install/index.php:1575
+#: install/index.php:1575
 #, fuzzy
 msgid "Spanish"
 msgstr "Spaans"
 
-#: install/index.php:1575 install/index.php:1576
+#: install/index.php:1576
 #, fuzzy
 msgid "Swedish"
 msgstr "Zweeds"
 
-#: install/index.php:1576 install/index.php:1577
+#: install/index.php:1577
 #, fuzzy
 msgid "Turkish"
 msgstr "Turks"
-
-#: install/index.php:1572
-msgid "Japanese"
-msgstr ""

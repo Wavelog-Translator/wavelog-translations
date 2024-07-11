@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: translations@wavelog.org\n"
-"POT-Creation-Date: 2024-07-11 19:29+0200\n"
+"POT-Creation-Date: 2024-07-11 19:32+0200\n"
 "PO-Revision-Date: 2024-07-11 17:25+0000\n"
 "Last-Translator: OpenAI <noreply-mt-openai@weblate.org>\n"
 "Language-Team: Japanese <https://translate.wavelog.org/projects/dev-project/"
@@ -508,26 +508,26 @@ msgstr "ギリシャ語"
 msgid "Italian"
 msgstr "イタリア語"
 
-#: install/index.php:1572 install/index.php:1573
-msgid "Polish"
-msgstr "ポーランド語"
-
-#: install/index.php:1573 install/index.php:1574
-msgid "Russian"
-msgstr "ロシア語"
-
-#: install/index.php:1574 install/index.php:1575
-msgid "Spanish"
-msgstr "スペイン語"
-
-#: install/index.php:1575 install/index.php:1576
-msgid "Swedish"
-msgstr "スウェーデン語"
-
-#: install/index.php:1576 install/index.php:1577
-msgid "Turkish"
-msgstr "トルコ語"
-
 #: install/index.php:1572
 msgid "Japanese"
 msgstr ""
+
+#: install/index.php:1573
+msgid "Polish"
+msgstr "ポーランド語"
+
+#: install/index.php:1574
+msgid "Russian"
+msgstr "ロシア語"
+
+#: install/index.php:1575
+msgid "Spanish"
+msgstr "スペイン語"
+
+#: install/index.php:1576
+msgid "Swedish"
+msgstr "スウェーデン語"
+
+#: install/index.php:1577
+msgid "Turkish"
+msgstr "トルコ語"
