@@ -295,10 +295,10 @@ msgstr ""
 "Cette configuration est optionnelle. La recherche de l'indicatif sera "
 "disponible pour tous les utilisateurs de cette installation. Vous pouvez "
 "choisir entre QRZ.com et HamQTH. Bien que HamQTH fonctionne également sans "
-"nom d'utilisateur et mot de passe, vous aurez besoin de credentials pour "
-"QRZ.com. Pour obtenir également le Call Locator sur QRZ.com, vous aurez "
-"besoin d'un abonnement XML. HamQTH ne fournit pas toujours les informations "
-"de localisateur."
+"nom d'utilisateur et mot de passe, vous aurez besoin de credentials pour QRZ."
+"com. Pour obtenir également le Call Locator sur QRZ.com, vous aurez besoin "
+"d'un abonnement XML. HamQTH ne fournit pas toujours les informations de "
+"localisateur."
 
 #: install/index.php:497 install/index.php:540 install/index.php:572
 #, fuzzy
@@ -560,9 +560,9 @@ msgid ""
 "><code>chmod -R 777 %s</code><br /><br /><i>Don't forget to restore the "
 "permissions afterwards.</i>"
 msgstr ""
-"Veuillez rendre le dossier %s accessible en écriture. "
-"<strong>Exemple</strong>:<br /><br /><code>chmod -R 777 %s</code><br /><br /"
-"><i>N'oubliez pas de restaurer les permissions par la suite.</i>"
+"Veuillez rendre le dossier %s accessible en écriture. <strong>Exemple</"
+"strong>:<br /><br /><code>chmod -R 777 %s</code><br /><br /><i>N'oubliez pas "
+"de restaurer les permissions par la suite.</i>"
 
 #: install/index.php:1562
 #, fuzzy
@@ -614,27 +614,31 @@ msgstr "Grec"
 msgid "Italian"
 msgstr "Italien"
 
-#: install/index.php:1572
+#: install/index.php:1572 install/index.php:1573
 #, fuzzy
 msgid "Polish"
 msgstr "Polonais"
 
-#: install/index.php:1573
+#: install/index.php:1573 install/index.php:1574
 #, fuzzy
 msgid "Russian"
 msgstr "Russe"
 
-#: install/index.php:1574
+#: install/index.php:1574 install/index.php:1575
 #, fuzzy
 msgid "Spanish"
 msgstr "Espagnol"
 
-#: install/index.php:1575
+#: install/index.php:1575 install/index.php:1576
 #, fuzzy
 msgid "Swedish"
 msgstr "Suédois"
 
-#: install/index.php:1576
+#: install/index.php:1576 install/index.php:1577
 #, fuzzy
 msgid "Turkish"
 msgstr "Turc"
+
+#: install/index.php:1572
+msgid "Japanese"
+msgstr ""

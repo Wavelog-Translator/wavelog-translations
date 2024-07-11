@@ -462,7 +462,8 @@ msgstr "Has preparado todos los pasos necesarios."
 #: install/index.php:1155
 #, fuzzy
 msgid "We now can install Wavelog. This process can take a few minutes."
-msgstr "Ahora podemos instalar Wavelog. Este proceso puede tardar unos minutos."
+msgstr ""
+"Ahora podemos instalar Wavelog. Este proceso puede tardar unos minutos."
 
 #: install/index.php:1165
 #, fuzzy
@@ -579,25 +580,29 @@ msgstr "Griego"
 msgid "Italian"
 msgstr "Italiano"
 
-#: install/index.php:1572
+#: install/index.php:1572 install/index.php:1573
 msgid "Polish"
 msgstr ""
 
-#: install/index.php:1573
+#: install/index.php:1573 install/index.php:1574
 #, fuzzy
 msgid "Russian"
 msgstr "Ruso"
 
-#: install/index.php:1574
+#: install/index.php:1574 install/index.php:1575
 #, fuzzy
 msgid "Spanish"
 msgstr "Español"
 
-#: install/index.php:1575
+#: install/index.php:1575 install/index.php:1576
 #, fuzzy
 msgid "Swedish"
 msgstr "Sueco"
 
-#: install/index.php:1576
+#: install/index.php:1576 install/index.php:1577
 msgid "Turkish"
+msgstr ""
+
+#: install/index.php:1572
+msgid "Japanese"
 msgstr ""

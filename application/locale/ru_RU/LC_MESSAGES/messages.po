@@ -5585,23 +5585,23 @@ msgstr "Греческий"
 msgid "Italian"
 msgstr "Итальянский"
 
-#: application/views/debug/index.php:600
+#: application/views/debug/index.php:600 application/views/debug/index.php:601
 msgid "Polish"
 msgstr "Польский"
 
-#: application/views/debug/index.php:601
+#: application/views/debug/index.php:601 application/views/debug/index.php:602
 msgid "Russian"
 msgstr "Русский"
 
-#: application/views/debug/index.php:602
+#: application/views/debug/index.php:602 application/views/debug/index.php:603
 msgid "Spanish"
 msgstr "Испанский"
 
-#: application/views/debug/index.php:603
+#: application/views/debug/index.php:603 application/views/debug/index.php:604
 msgid "Swedish"
 msgstr "Шведский"
 
-#: application/views/debug/index.php:604
+#: application/views/debug/index.php:604 application/views/debug/index.php:605
 msgid "Turkish"
 msgstr "Турецкий"
 
@@ -10572,6 +10572,10 @@ msgstr "Пометить QSO как экспортированные в QO-100 D
 #: application/views/webadif/mark_webadif.php:16
 msgid "The QSOs are marked as exported to QO-100 Dx Club."
 msgstr "QSO отмечены как экспортированные в QO-100 Dx Club."
+
+#: application/views/debug/index.php:600
+msgid "Japanese"
+msgstr ""
 
 #~ msgid "API Key is required do not change this field"
 #~ msgstr "Требуется ключ API (не изменяйте это поле)"

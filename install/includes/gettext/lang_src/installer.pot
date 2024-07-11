@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: translations@wavelog.org\n"
-"POT-Creation-Date: 2024-07-11 19:29+0200\n"
+"POT-Creation-Date: 2024-07-11 19:32+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -464,21 +464,25 @@ msgid "Italian"
 msgstr ""
 
 #: install/index.php:1572
-msgid "Polish"
+msgid "Japanese"
 msgstr ""
 
 #: install/index.php:1573
-msgid "Russian"
+msgid "Polish"
 msgstr ""
 
 #: install/index.php:1574
-msgid "Spanish"
+msgid "Russian"
 msgstr ""
 
 #: install/index.php:1575
-msgid "Swedish"
+msgid "Spanish"
 msgstr ""
 
 #: install/index.php:1576
+msgid "Swedish"
+msgstr ""
+
+#: install/index.php:1577
 msgid "Turkish"
 msgstr ""

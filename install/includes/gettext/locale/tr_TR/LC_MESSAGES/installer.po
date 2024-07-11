@@ -508,22 +508,26 @@ msgstr "Yunanca"
 msgid "Italian"
 msgstr "İtalyanca"
 
-#: install/index.php:1572
+#: install/index.php:1572 install/index.php:1573
 msgid "Polish"
 msgstr "Lehçe"
 
-#: install/index.php:1573
+#: install/index.php:1573 install/index.php:1574
 msgid "Russian"
 msgstr "Rusça"
 
-#: install/index.php:1574
+#: install/index.php:1574 install/index.php:1575
 msgid "Spanish"
 msgstr "İspanyolca"
 
-#: install/index.php:1575
+#: install/index.php:1575 install/index.php:1576
 msgid "Swedish"
 msgstr "İsveççe"
 
-#: install/index.php:1576
+#: install/index.php:1576 install/index.php:1577
 msgid "Turkish"
 msgstr "Türkçe"
+
+#: install/index.php:1572
+msgid "Japanese"
+msgstr ""

@@ -600,27 +600,31 @@ msgstr "Řečtina"
 msgid "Italian"
 msgstr "Italština"
 
-#: install/index.php:1572
+#: install/index.php:1572 install/index.php:1573
 #, fuzzy
 msgid "Polish"
 msgstr "Polština"
 
-#: install/index.php:1573
+#: install/index.php:1573 install/index.php:1574
 #, fuzzy
 msgid "Russian"
 msgstr "Ruština"
 
-#: install/index.php:1574
+#: install/index.php:1574 install/index.php:1575
 #, fuzzy
 msgid "Spanish"
 msgstr "Španělština"
 
-#: install/index.php:1575
+#: install/index.php:1575 install/index.php:1576
 #, fuzzy
 msgid "Swedish"
 msgstr "Švédština"
 
-#: install/index.php:1576
+#: install/index.php:1576 install/index.php:1577
 #, fuzzy
 msgid "Turkish"
 msgstr "Turečtina"
+
+#: install/index.php:1572
+msgid "Japanese"
+msgstr ""

@@ -607,27 +607,31 @@ msgstr "Greco"
 msgid "Italian"
 msgstr "Italiano"
 
-#: install/index.php:1572
+#: install/index.php:1572 install/index.php:1573
 #, fuzzy
 msgid "Polish"
 msgstr "Polacco"
 
-#: install/index.php:1573
+#: install/index.php:1573 install/index.php:1574
 #, fuzzy
 msgid "Russian"
 msgstr "Russo"
 
-#: install/index.php:1574
+#: install/index.php:1574 install/index.php:1575
 #, fuzzy
 msgid "Spanish"
 msgstr "Spagnolo"
 
-#: install/index.php:1575
+#: install/index.php:1575 install/index.php:1576
 #, fuzzy
 msgid "Swedish"
 msgstr "Svedese"
 
-#: install/index.php:1576
+#: install/index.php:1576 install/index.php:1577
 #, fuzzy
 msgid "Turkish"
 msgstr "Turco"
+
+#: install/index.php:1572
+msgid "Japanese"
+msgstr ""

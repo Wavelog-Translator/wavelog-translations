@@ -496,22 +496,26 @@ msgstr "Grekiska"
 msgid "Italian"
 msgstr "Italienska"
 
-#: install/index.php:1572
+#: install/index.php:1572 install/index.php:1573
 msgid "Polish"
 msgstr "Polska"
 
-#: install/index.php:1573
+#: install/index.php:1573 install/index.php:1574
 msgid "Russian"
 msgstr ""
 
-#: install/index.php:1574
+#: install/index.php:1574 install/index.php:1575
 msgid "Spanish"
 msgstr "Spanska"
 
-#: install/index.php:1575
+#: install/index.php:1575 install/index.php:1576
 msgid "Swedish"
 msgstr "Svenska"
 
-#: install/index.php:1576
+#: install/index.php:1576 install/index.php:1577
 msgid "Turkish"
 msgstr "Turkiska"
+
+#: install/index.php:1572
+msgid "Japanese"
+msgstr ""

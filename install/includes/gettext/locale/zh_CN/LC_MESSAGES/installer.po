@@ -488,22 +488,26 @@ msgstr "希腊语"
 msgid "Italian"
 msgstr "意大利语"
 
-#: install/index.php:1572
+#: install/index.php:1572 install/index.php:1573
 msgid "Polish"
 msgstr "波兰语"
 
-#: install/index.php:1573
+#: install/index.php:1573 install/index.php:1574
 msgid "Russian"
 msgstr "俄语"
 
-#: install/index.php:1574
+#: install/index.php:1574 install/index.php:1575
 msgid "Spanish"
 msgstr "西班牙语"
 
-#: install/index.php:1575
+#: install/index.php:1575 install/index.php:1576
 msgid "Swedish"
 msgstr "瑞典语"
 
-#: install/index.php:1576
+#: install/index.php:1576 install/index.php:1577
 msgid "Turkish"
 msgstr "土耳其语"
+
+#: install/index.php:1572
+msgid "Japanese"
+msgstr ""
