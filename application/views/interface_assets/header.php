@@ -75,7 +75,7 @@
 
 	<title><?php if (isset($page_title)) {
 				echo $page_title;
-			} ?> - Wavelog</title>
+			} ?> - Wavelog Test</title>
 </head>
 
 <body dir="<?php echo $language['direction']; ?>">
