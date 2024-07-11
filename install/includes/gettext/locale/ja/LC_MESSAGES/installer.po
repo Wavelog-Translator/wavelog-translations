@@ -7,37 +7,40 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: translations@wavelog.org\n"
 "POT-Creation-Date: 2024-07-09 09:22+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2024-07-11 17:17+0000\n"
+"Last-Translator: Fabian Berg <hb9hil@wavelog.org>\n"
+"Language-Team: Japanese <https://translate.wavelog.org/projects/dev-project/"
+"dev-installer/ja/>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.6\n"
 
 #: install/index.php:213
 msgid "Install | Wavelog"
-msgstr ""
+msgstr "インストール | Wavelog"
 
 #: install/index.php:237
 msgid "1. Welcome"
-msgstr ""
+msgstr "1. ようこそ"
 
 #: install/index.php:240
 msgid "2. Pre Checks"
-msgstr ""
+msgstr "2. 事前チェック"
 
 #: install/index.php:243
 msgid "3. Configuration"
-msgstr ""
+msgstr "3. 設定"
 
 #: install/index.php:246
 msgid "4. Database"
-msgstr ""
+msgstr "4. データベース"
 
 #: install/index.php:249
 msgid "5. First User"
-msgstr ""
+msgstr "5. 最初のユーザー"
 
 #: install/index.php:252
 msgid "6. Finish"
