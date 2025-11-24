@@ -1,0 +1,243 @@
+{
+    "emptyTable": "",
+    "info": "",
+    "infoEmpty": "",
+    "infoFiltered": "",
+    "infoThousands": "",
+    "lengthMenu": "",
+    "loadingRecords": "",
+    "processing": "",
+    "search": "",
+    "zeroRecords": "",
+    "thousands": "",
+    "paginate": {
+        "first": "",
+        "last": "",
+        "next": "",
+        "previous": ""
+    },
+    "aria": {
+        "sortAscending": "",
+        "sortDescending": ""
+    },
+    "autoFill": {
+        "cancel": "",
+        "fill": "",
+        "fillHorizontal": "",
+        "fillVertical": ""
+    },
+    "buttons": {
+        "collection": "",
+        "colvis": "",
+        "colvisRestore": "",
+        "copy": "",
+        "copyKeys": "",
+        "copySuccess": {
+            "1": "",
+            "_": ""
+        },
+        "copyTitle": "",
+        "csv": "",
+        "excel": "",
+        "pageLength": {
+            "-1": "",
+            "_": ""
+        },
+        "pdf": "",
+        "print": "",
+        "updateState": "",
+        "stateRestore": "",
+        "savedStates": "",
+        "renameState": "",
+        "removeState": "",
+        "removeAllStates": "",
+        "createState": ""
+    },
+    "searchBuilder": {
+        "add": "",
+        "button": {
+            "0": "",
+            "_": ""
+        },
+        "clearAll": "",
+        "condition": "",
+        "conditions": {
+            "date": {
+                "after": "",
+                "before": "",
+                "between": "",
+                "empty": "",
+                "equals": "",
+                "not": "",
+                "notBetween": "",
+                "notEmpty": ""
+            },
+            "number": {
+                "between": "",
+                "empty": "",
+                "equals": "",
+                "gt": "",
+                "gte": "",
+                "lt": "",
+                "lte": "",
+                "not": "",
+                "notBetween": "",
+                "notEmpty": ""
+            },
+            "string": {
+                "contains": "",
+                "empty": "",
+                "endsWith": "",
+                "equals": "",
+                "not": "",
+                "notEmpty": "",
+                "startsWith": "",
+                "notContains": "",
+                "notStartsWith": "",
+                "notEndsWith": ""
+            },
+            "array": {
+                "without": "",
+                "notEmpty": "",
+                "not": "",
+                "contains": "",
+                "empty": "",
+                "equals": ""
+            }
+        },
+        "data": "",
+        "deleteTitle": "",
+        "leftTitle": "",
+        "logicAnd": "",
+        "logicOr": "",
+        "rightTitle": "",
+        "title": {
+            "0": "",
+            "_": ""
+        },
+        "value": ""
+    },
+    "searchPanes": {
+        "clearMessage": "",
+        "collapse": {
+            "0": "",
+            "_": ""
+        },
+        "count": "",
+        "countFiltered": "",
+        "emptyPanes": "",
+        "loadMessage": "",
+        "title": "",
+        "showMessage": "",
+        "collapseMessage": ""
+    },
+    "select": {
+        "cells": {
+            "1": "",
+            "_": ""
+        },
+        "columns": {
+            "1": "",
+            "_": ""
+        },
+        "rows": {
+            "1": "",
+            "_": ""
+        }
+    },
+    "datetime": {
+        "previous": "",
+        "next": "",
+        "hours": "",
+        "minutes": "",
+        "seconds": "",
+        "unknown": "",
+        "amPm": [
+            "",
+            ""
+        ],
+        "weekdays": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "months": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    "editor": {
+        "close": "",
+        "create": {
+            "button": "",
+            "title": "",
+            "submit": ""
+        },
+        "edit": {
+            "button": "",
+            "title": "",
+            "submit": ""
+        },
+        "remove": {
+            "button": "",
+            "title": "",
+            "submit": "",
+            "confirm": {
+                "_": "",
+                "1": ""
+            }
+        },
+        "error": {
+            "system": ""
+        },
+        "multi": {
+            "title": "",
+            "info": "",
+            "restore": "",
+            "noMulti": ""
+        }
+    },
+    "stateRestore": {
+        "renameTitle": "",
+        "renameLabel": "",
+        "renameButton": "",
+        "removeTitle": "",
+        "removeSubmit": "",
+        "removeJoiner": "",
+        "removeError": "",
+        "removeConfirm": "",
+        "emptyStates": "",
+        "emptyError": "",
+        "duplicateError": "",
+        "creationModal": {
+            "toggleLabel": "",
+            "title": "",
+            "select": "",
+            "searchBuilder": "",
+            "search": "",
+            "scroller": "",
+            "paging": "",
+            "order": "",
+            "name": "",
+            "columns": {
+                "visible": "",
+                "search": ""
+            },
+            "button": ""
+        }
+    }
+}
